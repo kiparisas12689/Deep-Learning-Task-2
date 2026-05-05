@@ -14,7 +14,7 @@ This fits the assignment because Lithuanian is a lower-resource language and the
 ## Main Files
 
 - [lt_formal_dataset_303.json]
-- [lt_formal_finetuning_workflow_cpu_v4.ipynb]
+- [main_workflow_cpu.ipynb]
 - [ASSESSMENT_NOTES.md]
 - [requirements.txt]
 
@@ -69,7 +69,7 @@ The initial setup attempted to use large-models, which had trouble running becau
 
 Open:
 
-- [lt_formal_finetuning_workflow_cpu_v4.ipynb]
+- [main_workflow_cpu.ipynb]
 
 Run the notebook from top to bottom.
 
