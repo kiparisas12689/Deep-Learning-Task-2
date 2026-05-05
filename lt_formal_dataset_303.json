@@ -1,0 +1,1820 @@
+[
+  {
+    "id": 1,
+    "informal_text": "LRT melagiai, Iranas atakavo JAV karinės bazes Emyratuose. Eilinį kartą stengetes suklaidinti Lietuvos piliečius.",
+    "formal_text": "LRT esate melagiai, Iranas atakavo JAV karines bazes Emiratuose. Eilinį kartą stengiates suklaidinti Lietuvos piliečius.",
+    "split": "train"
+  },
+  {
+    "id": 2,
+    "informal_text": "Ką konservai kapeikų papylė",
+    "formal_text": "Ką, konservatoriai centų papylė?",
+    "split": "train"
+  },
+  {
+    "id": 3,
+    "informal_text": "neispruses melagis",
+    "formal_text": "Neišprūsęs melagis.",
+    "split": "train"
+  },
+  {
+    "id": 4,
+    "informal_text": "Atleido specialistus ir sukyšo savus kurie geležiinkelį matė tik kompe.",
+    "formal_text": "Atleido specialistus ir sukišo savus, kurie geležinkelį matę tik kompiuteryje.",
+    "split": "test"
+  },
+  {
+    "id": 5,
+    "informal_text": "Čia ne pageidavimu koncertas, užsimanė bažnyčios, nuvažiavę į musulmoniškas šalis mes norėsime bažnyčios įdomu kas būtų",
+    "formal_text": "Čia ne pageidavimų koncertas, jie užsimanė bažnyčios, nuvažiavę į musulmoniškas šalis mes norėtumėme bažnyčios. Įdomu, kas būtų.",
+    "split": "train"
+  },
+  {
+    "id": 6,
+    "informal_text": "Pažiurekit kaip atrodo socialinis teisingumas Vokietijoje, Svedijoje, UK ir daug kitu saliu kur jų prisileido. Tada pezekit nesamones.",
+    "formal_text": "Pažiūrėkite, kaip atrodo socialinis teisingumas Vokietijoje, Švedijoje, Jungtinėje karalystėje ir daug kitų šalių, kur jų prisileido. Tada šnekėkite nesąmones.",
+    "split": "train"
+  },
+  {
+    "id": 7,
+    "informal_text": "Ir kam prireike sios diskusijos? Paziurekite, kad ir i Svedija. Mums reikia tokiu problemu?",
+    "formal_text": "Ir kam prireikė šios diskusijos? Pažiūrėkite, kad ir į Švediją. Mums reikia tokių problemų?",
+    "split": "train"
+  },
+  {
+    "id": 8,
+    "informal_text": "Kaltu kaip visada nera kalti tik paprasti zmones",
+    "formal_text": "Kaltų kaip visada nėra, kalti tik paprasti žmonės.",
+    "split": "train"
+  },
+  {
+    "id": 9,
+    "informal_text": "Super,bet tik ne į sebijos klubus....",
+    "formal_text": "Puikiai, bet tik ne į Serbijos klubus.",
+    "split": "train"
+  },
+  {
+    "id": 10,
+    "informal_text": "Lietuva jau DEVAS baudžia už ,,gerus darbus“",
+    "formal_text": "Lietuvą jau Dievas baudžia už „gerus darbus“.",
+    "split": "train"
+  },
+  {
+    "id": 11,
+    "informal_text": "Valdžia gyvena sau todėl visur bardakas",
+    "formal_text": "Valdžios žmonės gyvena sau, todėl visur chaosas.",
+    "split": "train"
+  },
+  {
+    "id": 12,
+    "informal_text": "Kodėl nerašot kiek mirė žmonių nesulauke vizito pas gydytojus",
+    "formal_text": "Kodėl nerašote kiek mire žmonių nesulaukę vizito pas gydytojus?",
+    "split": "train"
+  },
+  {
+    "id": 13,
+    "informal_text": "Sutapimai?? durpynas dega,dabar miskas,traukiniai nuo begiu..kas toliau?",
+    "formal_text": "Sutapimai? Durpynas dega, dabar miškas. Traukiniai nuo bėgių nurieda, kas toliau?",
+    "split": "test"
+  },
+  {
+    "id": 14,
+    "informal_text": "Panašu į aktoriau kauke na",
+    "formal_text": "Panašu į aktoriaus kaukę.",
+    "split": "test"
+  },
+  {
+    "id": 15,
+    "informal_text": "Pagaliau rytoj važiuoju. Jau kaip laukiuuuu.",
+    "formal_text": "Pagaliau, rytoj važiuosiu. Jau labai laukiu.",
+    "split": "train"
+  },
+  {
+    "id": 16,
+    "informal_text": "Tai stebės pas ką bloga padetis ir gerai... galės reaguoti nedelsent.",
+    "formal_text": "Tai stebės, pas ką bloga padėtis ir bus gerai. Galės reaguoti nedelsiant.",
+    "split": "test"
+  },
+  {
+    "id": 17,
+    "informal_text": "Kam tie pajuodeliai iš viso reikalingi. Ar gi dar nepasimokėm iš visos vakarų Europos",
+    "formal_text": "Kam tie tamsiaodžiai iš viso reikalingi? Argi dar nepasimokėme iš visos vakarų Europos?",
+    "split": "test"
+  },
+  {
+    "id": 18,
+    "informal_text": "Ideja gera,bet turetu but igyvendinama be jokiu parasu,o isakymu..",
+    "formal_text": "Idėja yra gera, bet turėtų būti įgyvendinama be jokių parašų, tiktais specialiu įsakymu.",
+    "split": "train"
+  },
+  {
+    "id": 19,
+    "informal_text": "Valdeli prądžiai firmų kavinių prekybcentrių pavadinimus sulietuvink",
+    "formal_text": "Valdeli, pradžiai firmų, kavinių bei prekybcentrių pavadinimus sulietuvink.",
+    "split": "train"
+  },
+  {
+    "id": 20,
+    "informal_text": "Nemoki kalbos pyzdunk",
+    "formal_text": "Tu nemoki kalbos, kvaily.",
+    "split": "train"
+  },
+  {
+    "id": 21,
+    "informal_text": "Zinoma,kad suprato,,,iki gyvenimo galo i cype",
+    "formal_text": "Žinoma, kad suprato. Iki gyvenimo galo į kalėjimą.",
+    "split": "test"
+  },
+  {
+    "id": 22,
+    "informal_text": "Neistvers kaleime pasikabint toks gaidejis",
+    "formal_text": "Neištvers kalėjime prisikabinti toks gaidelis.",
+    "split": "train"
+  },
+  {
+    "id": 23,
+    "informal_text": "Bachuriukai laukia nesulaukia...",
+    "formal_text": "Vyrukai laukia, nesulaukia.",
+    "split": "test"
+  },
+  {
+    "id": 24,
+    "informal_text": "jis isvaziavo , bet pazadejo sugrizti",
+    "formal_text": "Jis išvažiavo, bet pažadėjo sugrįžti.",
+    "split": "test"
+  },
+  {
+    "id": 25,
+    "informal_text": "O piderastas zvaigzde",
+    "formal_text": "O, homoseksualų žvaigždė.",
+    "split": "train"
+  },
+  {
+    "id": 26,
+    "informal_text": "Gavo švelniausia bausme",
+    "formal_text": "Gavo švelniausią bausmę.",
+    "split": "test"
+  },
+  {
+    "id": 27,
+    "informal_text": "Kas gali uždrauati kur noriu ten važiuoju.",
+    "formal_text": "Kas gali uždrausti? Kur noriu, ten ir važiuoju.",
+    "split": "train"
+  },
+  {
+    "id": 28,
+    "informal_text": "Gerai būtų jeigu nebegrįštų",
+    "formal_text": "Būtų gerai, jeigu nebegrįžtų.",
+    "split": "train"
+  },
+  {
+    "id": 29,
+    "informal_text": "kas cia tokio, kur nori tegu varo",
+    "formal_text": "Kas čia tokio? Kur nori, tegul ir varo.",
+    "split": "train"
+  },
+  {
+    "id": 30,
+    "informal_text": "O į Belorusiją iš kur lėktuvai skraido?",
+    "formal_text": "O į Baltarusiją iš kur lėktuvai skraido?",
+    "split": "train"
+  },
+  {
+    "id": 31,
+    "informal_text": "Kaip galima atvykti į belarusiją iš Lietuvos lėktuvu?",
+    "formal_text": "Kaip galima atvykti į Baltarusiją lėktuvu iš Lietuvos?",
+    "split": "train"
+  },
+  {
+    "id": 32,
+    "informal_text": "Ar debilai gali daryti verslą?",
+    "formal_text": "Ar kvailiai gali daryti verslą?",
+    "split": "train"
+  },
+  {
+    "id": 33,
+    "informal_text": "tai dar prieš pora dienu IG mete reklamą kad atsidaro ir vėl",
+    "formal_text": "Tai dar prieš porą dienų į Instagram socialinę erdvę metė reklamą, kad atsirado ir vėl.",
+    "split": "train"
+  },
+  {
+    "id": 34,
+    "informal_text": "su verslo ideja pavelavo kaip minimum 20 metu",
+    "formal_text": "Su verslo idėja pavėlavo kaip minimum 20 metų.",
+    "split": "train"
+  },
+  {
+    "id": 35,
+    "informal_text": "Tai aisku, zmones gi nieko nekainuoja, o karine technika, tai nuostolis...",
+    "formal_text": "Tai aišku, žmonės gi nieko nekainuoja, o karinė technika, tai nuostolis.",
+    "split": "train"
+  },
+  {
+    "id": 36,
+    "informal_text": "Labai Gerai.Atsakas už Velykas",
+    "formal_text": "Labai gerai. Atsakas už Vėlykas.",
+    "split": "test"
+  },
+  {
+    "id": 37,
+    "informal_text": "Šaunu bųtū",
+    "formal_text": "Šaunu būtų.",
+    "split": "train"
+  },
+  {
+    "id": 38,
+    "informal_text": "Manau atskris paskraidyti Ukrainos dronai palei Maskva. O gal ir flamingas atskris. Budanovas sakė, kad rosija lauktu staigmenų.",
+    "formal_text": "Manau atskris paskraidyti Ukrainos dronai palei Maskvą. O gal ir flamingas atskris. Budanovas sakė, kad Rusija lauktų staigmenų.",
+    "split": "train"
+  },
+  {
+    "id": 39,
+    "informal_text": "Baltijoms šalims bus pz nes leidzia naudoti oro erdve ukarinai o kodel rusijai negalima?",
+    "formal_text": "Baltijos šalims bus blogai, nes leidžia naudoti oro erdvę Ukrainai, o kodėl Rusijai negalima?",
+    "split": "train"
+  },
+  {
+    "id": 40,
+    "informal_text": "net jei ir nepasirodys- nieko tokio. katsapai ir taip susitriedę.",
+    "formal_text": "Net jeigu ir nepasirodys – nieko tokio. Rusai ir taip išsigandę.",
+    "split": "train"
+  },
+  {
+    "id": 41,
+    "informal_text": "O stalino ar neprašo!Išgama.",
+    "formal_text": "O Stalino ar neprašo? Išgama!",
+    "split": "test"
+  },
+  {
+    "id": 42,
+    "informal_text": "Ir ką tai jai duos? Paaiškės,kad ji kremliaus agentė?",
+    "formal_text": "Ir ką jai tai duos? Paaiškės, kad ji Rusijos agentė?",
+    "split": "train"
+  },
+  {
+    "id": 43,
+    "informal_text": ", rimta patirtis yra sukurti sėkminga biznį savo galva ir rankomis. Skirstyti kitu pinigus ir lupikauti iš palukanu yra kitu zmoniu pinigų įsisavinimas. Tik tiek",
+    "formal_text": "Rimta patirtis yra sukurti sėkmingą biznį savo galva ir rankomis. Skirstyti kitų pinigus ir plėšikauti iš palūkanų yra kitų žmonių pinigų įsisavinimas. Tik tiek.",
+    "split": "train"
+  },
+  {
+    "id": 44,
+    "informal_text": "Ar tu vagilka",
+    "formal_text": "Ar tu vagis?",
+    "split": "train"
+  },
+  {
+    "id": 45,
+    "informal_text": "okupantai rašistai žino kaip trolint",
+    "formal_text": "Okupantai rasistai, žino kaip apkvailinti.",
+    "split": "test"
+  },
+  {
+    "id": 46,
+    "informal_text": "Kaip tas ruskis visur spėja apsisukt ?",
+    "formal_text": "Kaip tas rusas visur spėja apsisukti?",
+    "split": "train"
+  },
+  {
+    "id": 47,
+    "informal_text": "Uz tarsa tai vairuotojai moka",
+    "formal_text": "Už taršą tai vairuotojai moka.",
+    "split": "train"
+  },
+  {
+    "id": 48,
+    "informal_text": "Auto keliai šiknoj,gel keliai irgi eina iš paskos,kas toliau.",
+    "formal_text": "Automobilių keliai užpakalyje, geležinkelių keliai irgi eina iš paskos, kas toliau?",
+    "split": "test"
+  },
+  {
+    "id": 49,
+    "informal_text": "Tokio debilo turbūt nėra,kuris dėl išgyvenimo išvyko į Norvegiją, o parvažiuos ginti Lietuvos.Plauna smegenis LRT",
+    "formal_text": "Tokio kvailio turbūt nėra, kuris dėl pragyvenimo išvyko į Norvegiją, o parvažiuos ginti Lietuvos. Plauna smegenis LRT.",
+    "split": "train"
+  },
+  {
+    "id": 50,
+    "informal_text": "Taip tu teisus.Grisime visi",
+    "formal_text": "Taip, tu teisus. Grįšime visi.",
+    "split": "test"
+  },
+  {
+    "id": 51,
+    "informal_text": "As irgi neatleisiu, jeigu, del kasciunu, nausedu, lansbergiu, mamai reikes sleptis rusije.",
+    "formal_text": "Aš irgi neatleisiu, jeigu dėl Kasčiūnų, Nausėdų, Landsbergių, mamai reikės slėptis rūsyje.",
+    "split": "train"
+  },
+  {
+    "id": 52,
+    "informal_text": "Nėra ką ginti viską apmokestino",
+    "formal_text": "Nėra ką ginti. Viską apmokestino.",
+    "split": "train"
+  },
+  {
+    "id": 53,
+    "informal_text": "Ogo Kokia nesamones pasake dar isidrosk mediny sautuva",
+    "formal_text": "Oho, kokias nesąmones pasakė, gal dar išsidrožk medinį šautuvą?",
+    "split": "test"
+  },
+  {
+    "id": 54,
+    "informal_text": "kokia dbr karai vien dronai ir mėsa.",
+    "formal_text": "Kokie dabar karai, vien tik dronai ir mesa.",
+    "split": "train"
+  },
+  {
+    "id": 55,
+    "informal_text": "Carney yra visų užingridų, socialistų ir kpmunistų mylimukas",
+    "formal_text": "Carney yra visų už Ingridą, socialistų ir komunistų numylėtinis.",
+    "split": "train"
+  },
+  {
+    "id": 56,
+    "informal_text": "Kanada ir EU iki galo isvien eis su gaza",
+    "formal_text": "Kanada ir Europos sąjunga iki galo išvien eis su Gaza.",
+    "split": "train"
+  },
+  {
+    "id": 57,
+    "informal_text": "Kanada i ES!",
+    "formal_text": "Kanadą į Europos sąjungą!",
+    "split": "train"
+  },
+  {
+    "id": 58,
+    "informal_text": "Ne tik užsieniečiams bet ir LR gyventojams. Nes dar yra kurie nemoka ir neidomu jiems.",
+    "formal_text": "Ne tik užsieniečiams, bet ir Lietuvos Respublikos gyventojams. Nes dar yra kurie nemoka ir neįdomu jiems.",
+    "split": "test"
+  },
+  {
+    "id": 59,
+    "informal_text": "Papasakokite kitoms salims apie tai. Ir dar lekcija praveskite lietuviu emigrantams.",
+    "formal_text": "Papasakokkite kitoms šalims apie tai. Ir dar lekciją praveskite lietuvių emigrantams.",
+    "split": "test"
+  },
+  {
+    "id": 60,
+    "informal_text": "Tai visdelto pulsit geguzes 9 ania",
+    "formal_text": "Tai vis dėlto pulsite Gegužės 9-ąją dieną, ar ne?",
+    "split": "test"
+  },
+  {
+    "id": 61,
+    "informal_text": "Juk dar 5 straipsnio neišbandėm o jau jus apie kitus svarstot gal pirma isbandom ta 5 straipsnį",
+    "formal_text": "Juk dar 5 straipsnio neišbandėme, o jau jūs apie kitus svarstote. Gal pirmai išbandome tą 5 straipsnį?",
+    "split": "train"
+  },
+  {
+    "id": 62,
+    "informal_text": "Vistiek galas artėja",
+    "formal_text": "Vis tiek galas artėja.",
+    "split": "train"
+  },
+  {
+    "id": 63,
+    "informal_text": "Jo, bus ta pati istorija, kaip su tradicijas labai saugančiu Volfo bravoru, kur senuosius pastatus Slabotkėj pardavė. Unikalūs rūsiai, gamybos tradicijos, istorija tik užpakaliui nusišluostyt",
+    "formal_text": "Jo, bus ta pati istorija, kaip su tradicijas labai saugančiu Volfo bravoru, kur senuosius pastatus Vilijampolėje pardavė. Unikalūs rūsiai, gamybos tradicijos, istorija tik užpakaliui nusišluostyti.",
+    "split": "train"
+  },
+  {
+    "id": 64,
+    "informal_text": "Lansbergo kapitalizmo rojuj būrai net tikro alaus atsigert nenusipelnė...",
+    "formal_text": "Landsbergio kapitalizmo rojuje būrai net tikro alaus atsigerti nenusipelnė...",
+    "split": "test"
+  },
+  {
+    "id": 65,
+    "informal_text": "Na va ir sitas alus pataps my…alu",
+    "formal_text": "Na va, net ir šitas alus pataps šlapimu.",
+    "split": "train"
+  },
+  {
+    "id": 66,
+    "informal_text": "Bet sumyžti kacapai išpuvusiais snukiais turi daug nekokybiškos mėsos",
+    "formal_text": "Bet susitepę rusai išpuvusiais dantimis turi daug nekokybiškos mėsos.",
+    "split": "train"
+  },
+  {
+    "id": 67,
+    "informal_text": "Kai komuniagos apsišikę.",
+    "formal_text": "Kaip komunistai prisidirbę.",
+    "split": "train"
+  },
+  {
+    "id": 68,
+    "informal_text": "Melagių karalius kaip ir visa socbebrų gauja",
+    "formal_text": "Melagių karalius kaip ir visa socialdemokratų gauja.",
+    "split": "train"
+  },
+  {
+    "id": 69,
+    "informal_text": "Realiai tu partiju, kurios turejo/turi korupcija uzsiiminejusiu asmenu , egzistencija Lietuvos politiniame gyvenime turi buti stabdoma.",
+    "formal_text": "Realiai tų partijų, kurios turėjo/turi korupcija užsiiminėjusių asmenų, egzistencija Lietuvos politiniame gyvenime turi būti stabdoma.",
+    "split": "train"
+  },
+  {
+    "id": 70,
+    "informal_text": "Priciupo sita nusikalteli",
+    "formal_text": "Pričiupo šitą nusikaltėlį.",
+    "split": "train"
+  },
+  {
+    "id": 71,
+    "informal_text": "Nu bebrų zombiai .... koncervai vėl kalti",
+    "formal_text": "Socialdemokratų zombiai... konservatoriai ir vėl kalti.",
+    "split": "train"
+  },
+  {
+    "id": 72,
+    "informal_text": "Tu nesupranti - tai yra emotional support gertuvės, prasideda nuo 1.5 litro talpos.",
+    "formal_text": "Tu nesupranti – tai yra emocinės paramos gertuvės, prasideda nuo 1.5 litro talpos.",
+    "split": "test"
+  },
+  {
+    "id": 73,
+    "informal_text": "Mes strokėse tik kavytės iš termoso. Dehidratavesi ir px. Vakare Tauro pora pintų ir px. Ryte kavytė iš termuso, kur nuo vakar liko, ir px.",
+    "formal_text": "Mes statybose tik kavos iš termoso. Dehidratavaisi ir nieko baisaus. Vakare tauro alaus pora pintų ir nieko baisaus. Ryte kava iš termoso, kur nuo vakar liko ir nieko tokio.",
+    "split": "train"
+  },
+  {
+    "id": 74,
+    "informal_text": "sveiki, gal domina kazka, uz pydisa. Galesit tampytis ofise ant virves pasirise. Pridesiu i komplekta plastikiniu (tu plonu) siaudeliu.",
+    "formal_text": "Sveiki, gal domina kažką, už penkiasdešimt eurų. Galėsite tampytis ofise ant virvės prisirišę. Pridėsiu į komplektą plastikinių (tų plonų) šiaudelių.",
+    "split": "train"
+  },
+  {
+    "id": 75,
+    "informal_text": "maciau kaip kolege virtuvej is krano pasilenkus tiesiog gere. ne viskas dar prarasta",
+    "formal_text": "Mačiau kaip kolegė virtuvėje iš krano pasilenkusi tiesiog gėrė. Ne viskas dar prarasta.",
+    "split": "test"
+  },
+  {
+    "id": 76,
+    "informal_text": "Vistiek prie aušros vartų klupėdami pis matchą iš gertuvės dramblio kaulo ekologiškos 1.2 litro talpos su šiaudeliu",
+    "formal_text": "Vis tiek prie aušros vartų klupėdami gers macha arbatą iš dramblio kaulo ekologiškos 1.2 litro talpos gertuvės su šiaudeliu.",
+    "split": "train"
+  },
+  {
+    "id": 77,
+    "informal_text": "Daug baisiau kai eiliniai loxai pradeda uzdirbti kad feisbuke papostina mizoginistinius kliedesius. Blogiausia kad sitie ir per krize liks nepaliesti.",
+    "formal_text": "Daug baisiau, kai eiliniai kvailiai pradeda uždirbti, kad facebook platformoje dalinasi misoginistiniais kliedesiais.",
+    "split": "train"
+  },
+  {
+    "id": 78,
+    "informal_text": "Krizės bent sulauksi, o pizės tai ne, lašara",
+    "formal_text": "Krizės bent sulauksi, o lytinių santykių su moterimi ne, nevykėli.",
+    "split": "train"
+  },
+  {
+    "id": 79,
+    "informal_text": "O nuo kada meile,jausmai ir glamones yra slykstu?!ai taigi viska turime daryti tamsoje po devyniais uzraktai kad tik kas nepamatytu ar kam “slykstu”nepasidarytu,juk tai viesa taip negalima negrazu fu fu fu nu nu nu",
+    "formal_text": "O nuo kada meilė, jausmai ir glamonės yra šlykštu? Ai, taigi viską turime daryti tamsoje, po devyniais užraktais, kad tik kas nepamatytų, ar kam „šlykštu“ nepasidarytų. Juk tai vieša, taip negalima ir negražu, fui fui fui.",
+    "split": "train"
+  },
+  {
+    "id": 80,
+    "informal_text": "Nepavydėkit pavasaris juk džiaugiasi jaunimas",
+    "formal_text": "Nepavydėkite, pavasaris juk, džiaugiasi jaunimas.",
+    "split": "test"
+  },
+  {
+    "id": 81,
+    "informal_text": "Pats ne buvai jaunas? Ar senbernis",
+    "formal_text": "Ar pats nebuvai jaunas? Ar senbernis?",
+    "split": "train"
+  },
+  {
+    "id": 82,
+    "informal_text": "Priduos tarą ir į Balį mėnesiui šaus?",
+    "formal_text": "Priduos tarą ir į Balį mėnesiui išvyks?",
+    "split": "test"
+  },
+  {
+    "id": 83,
+    "informal_text": "Vaikštantis jackpot’as",
+    "formal_text": "Vaikštantis laimės puodas.",
+    "split": "train"
+  },
+  {
+    "id": 84,
+    "informal_text": "Geriau jau sitaip nei apsirasyt ir but oziu kaip tu",
+    "formal_text": "Geriau jau šitaip, nei apsirašyti ir būti ožiu kaip tu.",
+    "split": "train"
+  },
+  {
+    "id": 85,
+    "informal_text": "Kurva, koks tu teisingas esi",
+    "formal_text": "Ak, koks tu esi teisus.",
+    "split": "train"
+  },
+  {
+    "id": 86,
+    "informal_text": "Mlds,dirba nevegia svarina",
+    "formal_text": "Šaunuolis, dirba, nevogia ir švarina aplinką.",
+    "split": "train"
+  },
+  {
+    "id": 87,
+    "informal_text": "Draugelis vata!!!",
+    "formal_text": "Draugas palaiko rusus!!!",
+    "split": "train"
+  },
+  {
+    "id": 88,
+    "informal_text": "Tau buvo aptemes protas",
+    "formal_text": "Tau buvo aptemęs protas.",
+    "split": "train"
+  },
+  {
+    "id": 89,
+    "informal_text": "Nu nevyriškä visai.. je priš 6 val. tarē žuodi tai laikykis, o dab kap kuoks padelėnis",
+    "formal_text": "Nevyriška visai, jei prieš 6 valandas tarė žodį, tai laikykis, o dabar kaip koks padelį žaidžiantis.",
+    "split": "train"
+  },
+  {
+    "id": 90,
+    "informal_text": "Po sito posto daugiau negersiu lates chujates mochito su kalnu ozkos pienu",
+    "formal_text": "Po šito įrašo daugiau nebegersiu latte kavos ar mochito su kalnų ožkos pienu.",
+    "split": "train"
+  },
+  {
+    "id": 91,
+    "informal_text": "Pats postini shudus kas dvi valandas dainuoji pievas atrodai kaip 40 metu senis nuo tusinimo dar stuma ant vaiku",
+    "formal_text": "Pats skelbi nesąmoningus įrašus kas dvi valandas, dainuoji pievas ir atrodai kaip 40 metų senis. Nuo tūsinimo dar stumia ant vaikų.",
+    "split": "train"
+  },
+  {
+    "id": 92,
+    "informal_text": "Kas čia per šizofrenijos kliedesyyyys..? Matyt, pamestas, nelaimėlis..",
+    "formal_text": "Kas čia per šizofrenijos kliedesys? Matyt, pamestas, nelaimėlis...",
+    "split": "train"
+  },
+  {
+    "id": 93,
+    "informal_text": "klaida padarei su situ komentaru, pyzda tau",
+    "formal_text": "Klaidą padarei su šitu komentaru, tau bus blogai.",
+    "split": "train"
+  },
+  {
+    "id": 94,
+    "informal_text": "naxui nenervink, parašiau specialiai tokiems dasipisėliams SU MUM BAXŪRAIS TAS PATS, vis tiek, kurva, prisistato manęs analizuotz ką noriu tą rašau, čia tekstas, o ne mano biografija, užteks gal proto suprast, jei labai pasistengsi",
+    "formal_text": "Po velnių, nenervuok, parašiau specialiai tokiems prisikabinėjantiems. Su mumis vyrukais tas pats, vis tiek gi, prisistato manęs analizuoti. Ką noriu tą rašau, čia tekstas, o ne mano biografija, užteks gal proto suprasti, jeigu labai pasistengsi.",
+    "split": "train"
+  },
+  {
+    "id": 95,
+    "informal_text": "neaxuielink nes lb lb daug problemu turesi patikek. p.s. ne butavicius rasos o butkevicius, durneli",
+    "formal_text": "Nesikabinėk, nes labai labai daug problemų turėsi, patikėk. Beje, Butavičius rašosi, o ne Butkevičius, kvaily.",
+    "split": "train"
+  },
+  {
+    "id": 96,
+    "informal_text": "Aisku,kad seniau buvo geriau kai nuo 5 metu ukio darbus pradedavo dirbti, o 20 mirdavo per 5 gimdyma -vyrai aisku sukilimuose dalyvaudavo nes kariauti kol dar neokupavo nesusiorganizuodavo",
+    "formal_text": "Aišku, kad seniau buvo geriau, kai nuo 5 metų ūkio darbus pradėdavo dirbti, o 20 mirdavo per 5 gimdymą. Vyrai aišku sukilimuose dalyvaudavo, nes kariauti, kol dar neokupavo, nesusiorganizuodavo.",
+    "split": "train"
+  },
+  {
+    "id": 97,
+    "informal_text": "Nu, camon...ta raukšlė tarp antakių? Velnias slypi detalėse.",
+    "formal_text": "Nagi, ta raukšlė tarp antakių? Velnias slypi detalėse.",
+    "split": "train"
+  },
+  {
+    "id": 98,
+    "informal_text": "Lavit!!!",
+    "formal_text": "Myliu tai!!!",
+    "split": "test"
+  },
+  {
+    "id": 99,
+    "informal_text": "No ble esi poikus.",
+    "formal_text": "Na tikrai, esi puikus.",
+    "split": "test"
+  },
+  {
+    "id": 100,
+    "informal_text": "Davai rodyk kas iš draugužio liko",
+    "formal_text": "Nagi parodyk, kas iš draugužio liko.",
+    "split": "train"
+  },
+  {
+    "id": 101,
+    "informal_text": "I eurovizija su salies atstovu ruosiesi?",
+    "formal_text": "Į euroviziją su šalies atstovu ruošiesi?",
+    "split": "train"
+  },
+  {
+    "id": 102,
+    "informal_text": "Koks rūstus gėjus",
+    "formal_text": "Koks rūstus homoseksualas.",
+    "split": "test"
+  },
+  {
+    "id": 103,
+    "informal_text": "gejus nepriciom",
+    "formal_text": "Homoseksualas ne prie ko.",
+    "split": "train"
+  },
+  {
+    "id": 104,
+    "informal_text": "Send to Dagestan and leave for 3 days",
+    "formal_text": "Nusiųsk į Dagestaną ir palik 3 dienomis.",
+    "split": "train"
+  },
+  {
+    "id": 105,
+    "informal_text": "Kaip surinkti kuo daugiau debilų ir budulių komentaruose-parodyk jiems Dievo namus. Arogantiški menkystos",
+    "formal_text": "Kaip surinkti kuo daugiau nevykėlių ir atsilikėlių komentaruose – parodyk jiems Dievo namus. Arogantiški menkystos.",
+    "split": "train"
+  },
+  {
+    "id": 106,
+    "informal_text": "Kas žinot Visaginą, ar Visaginas tebėra gorod kaifa?",
+    "formal_text": "Kas žinote Visaginą, ar Visaginas tebėra narkotikų miestas?",
+    "split": "train"
+  },
+  {
+    "id": 107,
+    "informal_text": "Kas toliau? Susiaurins gatves atimdami iš automobilistų važiuojamąją dalį ir atiduodami dvirtakiams, kuriais galės važinėtis brokoliagalviai ant paspirtukų? Oi, pala…",
+    "formal_text": "Kas toliau? Susiaurins gatves, atimdami iš automobilininkų važiuojamąją dalį ir atiduodami dviračių takams, kuriais galės važinėtis žmonės su garbanotais plaukais ant paspirtukų? Oi, palauk...",
+    "split": "train"
+  },
+  {
+    "id": 108,
+    "informal_text": "Padelio mafija yra Lietuvoje? Nu pyzdiec",
+    "formal_text": "Padelį žaidžiančių žmonių mafija yra Lietuvoje? Na nesąmonė.",
+    "split": "train"
+  },
+  {
+    "id": 109,
+    "informal_text": "Direktorius, kai ryte neranda tavęs darbe ir perskaito 3val. nakties atsiųstą žinutę: \" direkotraiau, nebs darba, temparatųra..,.”",
+    "formal_text": "Direktorius, kai ryte neranda tavęs darbe ir perskaito 3 valandą nakties atsiųstą žinutę: „direktoriau, nebūsiu darbe, temperatūra...“",
+    "split": "train"
+  },
+  {
+    "id": 110,
+    "informal_text": "Iš eičaro. Turi pastoviai visiems įrodinėti, kad ne gėjus. Nesukalbamas dėl algų ekselio - tegu akmens ant akmens neliks, bet ekselis stovės ir algos bus pagal numatytus limitus.",
+    "formal_text": "Iš žmogiškųjų išteklių. Turi pastoviai visiems įrodinėti, kad ne homoseksualas. Nesukalbamas dėl algų excel – tegul akmens ant akmens neliks, bet excel stovės ir algos bus pagal numatytus limitus.",
+    "split": "train"
+  },
+  {
+    "id": 111,
+    "informal_text": "Ble gerai kad naujoj chatoj daug kondiskiu, nes toks hot gabaliukas!",
+    "formal_text": "Visgi gerai, kad naujuose namuose daug kondicionierių, nes labai karšta daina.",
+    "split": "test"
+  },
+  {
+    "id": 112,
+    "informal_text": "Kaip padaryt, kad sito ryzo kauso man fb nerodytu?",
+    "formal_text": "Kaip padaryti, kad šito kvailio su oranžiniais plaukais man facebook nerodytų?",
+    "split": "test"
+  },
+  {
+    "id": 113,
+    "informal_text": "nemoki žmogaus užblokuot fb, lašiny?",
+    "formal_text": "Nemoki žmogaus užblokuoti facebook platformoje, lašiny?",
+    "split": "test"
+  },
+  {
+    "id": 114,
+    "informal_text": "Gerai atsilupes bet maladiec",
+    "formal_text": "Tikrai protas atbukęs, bet šaunuolis.",
+    "split": "train"
+  },
+  {
+    "id": 115,
+    "informal_text": "Gedos nesidaryk",
+    "formal_text": "Gėdos nesidaryk",
+    "split": "test"
+  },
+  {
+    "id": 116,
+    "informal_text": "Legenda kalba, kad iš jo bybio žemaitaitis išaugo",
+    "formal_text": "Legenda kalba, kad iš jo lytinio organo Žemaitaitis išaugo.",
+    "split": "train"
+  },
+  {
+    "id": 117,
+    "informal_text": "Nemanau kad jis i direct bandė siųsti, kiek girdėjau čia taip adrenaliną susikelia šiais laikais. Įkeli i story ir greitai ištrini (kol niekas nepamatė). Tik šiuo atveju kažkas spėjo pamatyti.",
+    "formal_text": "Nemanau, kad jis tiesiogiai bandė siųsti, kiek girdėjau, čia taip adrenaliną pakelia šiais laikais. Įkeli į istoriją ir greitai ištirni (kol niekas nepamatė). Tik šiuo atveju kažkas spėjo pamatyti.",
+    "split": "test"
+  },
+  {
+    "id": 118,
+    "informal_text": "Steroidal daro keistus dalykus su žmonėm",
+    "formal_text": "Steroidai daro keistus dalykus su žmonių smeginimis.",
+    "split": "train"
+  },
+  {
+    "id": 119,
+    "informal_text": "I can fix him",
+    "formal_text": "Aš galiu jį sutvarkyti.",
+    "split": "train"
+  },
+  {
+    "id": 120,
+    "informal_text": "Jurka, blt, legenda",
+    "formal_text": "Jurijus, visgi, legenda.",
+    "split": "test"
+  },
+  {
+    "id": 121,
+    "informal_text": "Vėl kazike žiūrėjai?",
+    "formal_text": "Vėl Kaziuko mugėje žiūrėjai?",
+    "split": "train"
+  },
+  {
+    "id": 122,
+    "informal_text": "Kas turi būt galvoj kad taip kiaušinienę suvelt į konkolą",
+    "formal_text": "Kas turi būti galvoje, kad taip kiaušinienę suvelti į kamuoliuką.",
+    "split": "train"
+  },
+  {
+    "id": 123,
+    "informal_text": "Čia dar nieko, aš esu matęs moteriškę kuri nulupinėjo svogūnus, kad mžiau svertų ir atvirkščiai tčilavieką kuris iš 3 kiaušinių dėklų surinkinejo 1 į kurį perdėjo visus didžiausius kiaušinius",
+    "formal_text": "Čia dar nieko, aš esu matęs moteriškę, kuri nulupinėjo svogūnus, kad mažiau svertų ir atvirkščiai – vyruką, kuris iš 3 kiaušinių dėklų surinkinėjo 1, į kurį perdėjo visus didžiausius kiaušinius.",
+    "split": "train"
+  },
+  {
+    "id": 124,
+    "informal_text": "Life lover. Explorer.",
+    "formal_text": "Gyvenimo mylėtojas. Keliauninkas.",
+    "split": "train"
+  },
+  {
+    "id": 125,
+    "informal_text": "Kurią ausį prašovė kodėl nerašo",
+    "formal_text": "Kurią ausį prašovė? Kodėl nerašo?",
+    "split": "train"
+  },
+  {
+    "id": 126,
+    "informal_text": "Vieną dieną vistiek jis stovės prie Petro vartų",
+    "formal_text": "Vieną dieną vis tiek jis stovės prie Petro vartų",
+    "split": "test"
+  },
+  {
+    "id": 127,
+    "informal_text": "Tai kas jis krw NORTH FACEINIS pacukas",
+    "formal_text": "Tai kas jis toks? North face dėvintis vyrukas.",
+    "split": "train"
+  },
+  {
+    "id": 128,
+    "informal_text": "Ko trini post'us?",
+    "formal_text": "Ko trini įrašus?",
+    "split": "train"
+  },
+  {
+    "id": 129,
+    "informal_text": "Žiūrėkit ,kad į kelnes nepristumtumėt",
+    "formal_text": "Žiūrėkite, kad į kelnes nepristumtumėte.",
+    "split": "train"
+  },
+  {
+    "id": 130,
+    "informal_text": "O vyr. lyties gali būti kekšė?",
+    "formal_text": "O vyriškos lyties atstovas gali būti kekšė?",
+    "split": "train"
+  },
+  {
+    "id": 131,
+    "informal_text": "Atkapok ji kaip reikalas, seni!",
+    "formal_text": "Atkapok jį kaip reikalas, senas drauge!",
+    "split": "train"
+  },
+  {
+    "id": 132,
+    "informal_text": "Huinia čia ne įvertinamas. Žinai ,kad kažką pasiekei kažką kai avių esi antisemitu vadinamas",
+    "formal_text": "Nesąmonė čia, o ne įvertinimas. Žinai, kad kažką pasiekei, kai avių esi vadinamas antisemitu.",
+    "split": "train"
+  },
+  {
+    "id": 133,
+    "informal_text": "antisemitu vadina, nes per teliką negali gandonu vadint",
+    "formal_text": "Antisemitu vadina, nes per televizorių negali prezervatyvu vadinti.",
+    "split": "train"
+  },
+  {
+    "id": 134,
+    "informal_text": "Girto eziuko svajones",
+    "formal_text": "Girto ėžiuko svajonės.",
+    "split": "train"
+  },
+  {
+    "id": 135,
+    "informal_text": "Maišelis kaip suprantu saibom susidėti po bilietų",
+    "formal_text": "Maišelis kaip suprantu pinigams susidėti po bilietų?",
+    "split": "train"
+  },
+  {
+    "id": 136,
+    "informal_text": "Įtariu šūdus sapnavai",
+    "formal_text": "Įtariu nesąmones sapnavai.",
+    "split": "test"
+  },
+  {
+    "id": 137,
+    "informal_text": "Kiek čia milikų bus?",
+    "formal_text": "Kiek čia mililitrų bus?",
+    "split": "train"
+  },
+  {
+    "id": 138,
+    "informal_text": "Michelin yra padangos, o ne restoranai. Visi bachūrai tai žino",
+    "formal_text": "Michelin yra padangos, o ne restoranai. Visi vyrukai tai žino.",
+    "split": "train"
+  },
+  {
+    "id": 139,
+    "informal_text": "vien perskaičius šitą combo rūgštys kilt pradėjo",
+    "formal_text": "Vien perskaičius šitą kombinaciją, rūgštys kilti pradėjo.",
+    "split": "train"
+  },
+  {
+    "id": 140,
+    "informal_text": "Tik pastebesiu kad paskutine fraze \"eina jie nx\" skamba kaip \"per amzhius amen\".",
+    "formal_text": "Tik pastebėsiu, kad paskutinė frazė „eina jie visi po velnių“ skamba kaip „per amžius, amen“.",
+    "split": "train"
+  },
+  {
+    "id": 141,
+    "informal_text": "Gal kiek grubokai, bet biednam bybis irgi mėsa",
+    "formal_text": "Gal kiek grubokai, bet skurdžiam žmogui, vyriškas lytinis organas irgi mėsa.",
+    "split": "test"
+  },
+  {
+    "id": 142,
+    "informal_text": "Gal ir tu nuopisa...",
+    "formal_text": "Gal ir tu nevykėlis.",
+    "split": "train"
+  },
+  {
+    "id": 143,
+    "informal_text": "Bl a galit jam kas ištrint internetą kad neberašytų šūdų tas barzdaveidis",
+    "formal_text": "Nagi, ar galit jam kas nors ištrinti internetą, kad neberašytų nesąmonių šitas barzdočius.",
+    "split": "test"
+  },
+  {
+    "id": 144,
+    "informal_text": "Bet zmones vistiek faini?",
+    "formal_text": "Bet žmonės vis tiek faini?",
+    "split": "train"
+  },
+  {
+    "id": 145,
+    "informal_text": "Teisibe šneka!",
+    "formal_text": "Teisybė šneka!",
+    "split": "train"
+  },
+  {
+    "id": 146,
+    "informal_text": "Tegu ir sėdi tame rusyne.",
+    "formal_text": "Tegul ir sėdi ten pas rusus.",
+    "split": "train"
+  },
+  {
+    "id": 147,
+    "informal_text": "Maitinti dėmesiu debilus? Gaila vaikų.",
+    "formal_text": "Maitinti dėmesiu nevispročius? Gaila vaikų.",
+    "split": "train"
+  },
+  {
+    "id": 148,
+    "informal_text": "Tegu nebando gryžti!",
+    "formal_text": "Tegul nebando grįžti!",
+    "split": "train"
+  },
+  {
+    "id": 149,
+    "informal_text": "Tu mažiau susireiksmink ! Jau taves nieks nerinks i merus",
+    "formal_text": "Tu mažiau susireikšmink! Jau tavęs niekas nerinks į merus.",
+    "split": "train"
+  },
+  {
+    "id": 150,
+    "informal_text": "Dar taip blogai, kaip prie Zelenskio Rusija, dar negyveno",
+    "formal_text": "Dar taip blogai, kaip prie Zelenskio, Rusija dar negyveno.",
+    "split": "train"
+  },
+  {
+    "id": 151,
+    "informal_text": "Ateina vel kazkoks virusas?",
+    "formal_text": "Ateina vėl kažkoks virusas?",
+    "split": "test"
+  },
+  {
+    "id": 152,
+    "informal_text": "Ir supus tam bunkeri gandonas",
+    "formal_text": "Ir supus tame bunkeryje prezervatyvas.",
+    "split": "train"
+  },
+  {
+    "id": 153,
+    "informal_text": "Kaune usirink manatkes su savo visa seima ir valink i ta issvajota ukraina taves ten laukia ukraina išskėstomis rankomis",
+    "formal_text": "Kaune, susirink daiktus su savo visa šeima ir vyk į tą išsvajotą Ukrainą, tavęs ten laukia Ukraina išskėstomis rankomis.",
+    "split": "train"
+  },
+  {
+    "id": 154,
+    "informal_text": "Kaip „valdžioje“ debilai nieko nuostabaus",
+    "formal_text": "Kaip „valdžioje“ tokie nevispročiai, nieko nuostabaus.",
+    "split": "train"
+  },
+  {
+    "id": 155,
+    "informal_text": "Nepaejo tai teko vaziuoti",
+    "formal_text": "Nepavyko, tai teko važiuoti.",
+    "split": "train"
+  },
+  {
+    "id": 156,
+    "informal_text": "Ot grazu!!! Geda!!!!",
+    "formal_text": "Ot gražu! Gėda!",
+    "split": "train"
+  },
+  {
+    "id": 157,
+    "informal_text": "Turgaus lygio analitika daugiau niera ką ir komentuoti .",
+    "formal_text": "Turgaus lygio analitika, daugiau nėra ką ir komentuoti.",
+    "split": "train"
+  },
+  {
+    "id": 158,
+    "informal_text": "as taip eiciau tavo vietoj",
+    "formal_text": "Aš taip eičiau tavo vietoje.",
+    "split": "train"
+  },
+  {
+    "id": 159,
+    "informal_text": "turesit labai rimtu problemu, jei bandysit mums priestaraut",
+    "formal_text": "Turėsite labai rimtų problemų, jeigu bandysite mums prieštarauti.",
+    "split": "train"
+  },
+  {
+    "id": 160,
+    "informal_text": "pisk nx ciortas ! uzsimesk savo apteskes pisk su pasiprtuku i savo pilaites ir ciulp savo iqosa.",
+    "formal_text": "Eik peklon, velnias! Apsirenk savo aptemptais rūbais ir važiuok su paspirtuku į savo Pilaitę ir rūkyk savo IQOS cigaretę.",
+    "split": "train"
+  },
+  {
+    "id": 161,
+    "informal_text": "Gerai reprezentuoja, turėtų asap be darbo likt su tokiu vakuumu tarp ausu.",
+    "formal_text": "Gerai reprezentuoja, turėtų kuo greičiau be darbo likti su tokiu vakuumu tarp ausų.",
+    "split": "train"
+  },
+  {
+    "id": 162,
+    "informal_text": "Bld, taip bičą virš laužo laiko.",
+    "formal_text": "Nagi, taip vyruką virš laužo laiko.",
+    "split": "train"
+  },
+  {
+    "id": 163,
+    "informal_text": "gelezine logika Dar galejo pratest minty, zudymas del tam tikru priezasciu, galetu but legalus dalykas",
+    "formal_text": "Geležinė logika. Dar galėjo pratęsti mintį, jog žudymas dėl tam tikrų priežasčių, galėtų būti legalus dalykas.",
+    "split": "test"
+  },
+  {
+    "id": 164,
+    "informal_text": "Mes irgi veltui nezudom",
+    "formal_text": "Mes irgi veltui nežudome.",
+    "split": "train"
+  },
+  {
+    "id": 165,
+    "informal_text": "Blem, čia kažin prieš valgį ar po....???",
+    "formal_text": "Įdomu, čia kas žino ar prieš valgį, ar po???",
+    "split": "train"
+  },
+  {
+    "id": 166,
+    "informal_text": "Bence – prie darbuko",
+    "formal_text": "Benas – prie darbo.",
+    "split": "train"
+  },
+  {
+    "id": 167,
+    "informal_text": "svarbu iki vestuviu atsilaikyt! O ten all inclusive",
+    "formal_text": "Svarbu iki vestuvių atsilaikyti! O ten viskas įskaičiuota.",
+    "split": "train"
+  },
+  {
+    "id": 168,
+    "informal_text": "Nu nafik tokį kontentą kelt, visiškai cringe",
+    "formal_text": "Kodėl keliama tokia informacija, ji visiškai nejauki.",
+    "split": "train"
+  },
+  {
+    "id": 169,
+    "informal_text": "Čia jau pizdiec, ne postas",
+    "formal_text": "Tai nėra tinkamas įrašas.",
+    "split": "train"
+  },
+  {
+    "id": 170,
+    "informal_text": "Kas čia per ryžas klounas vėl išlindo",
+    "formal_text": "Kas čia per oranžinių plaukų žmogus vėl pasirodė.",
+    "split": "test"
+  },
+  {
+    "id": 171,
+    "informal_text": "Blet, kaip tu taip apsirengei, kaip iš turgaus",
+    "formal_text": "Kaip tu taip apsirengei, atrodai kaip iš turgaus.",
+    "split": "train"
+  },
+  {
+    "id": 172,
+    "informal_text": "Nu jo, influenceris už 3 eurus",
+    "formal_text": "Tai influenceris, kurio vertė labai maža.",
+    "split": "train"
+  },
+  {
+    "id": 173,
+    "informal_text": "Čia ne žmogus, čia vaikščiojantis mem'as",
+    "formal_text": "Tai ne žmogus, o vaikščiojantis interneto pokštas.",
+    "split": "test"
+  },
+  {
+    "id": 174,
+    "informal_text": "Kas per debilizmas, net skaityt sunku",
+    "formal_text": "Tai toks nelogiškas tekstas, kad sunku skaityti.",
+    "split": "train"
+  },
+  {
+    "id": 175,
+    "informal_text": "Nu ble, galėtum bent kartą normaliai nusifotkint",
+    "formal_text": "Galėtum bent kartą normaliai nusifotografuoti.",
+    "split": "test"
+  },
+  {
+    "id": 176,
+    "informal_text": "Čia visiškas šūdas, ne nuomonė",
+    "formal_text": "Tai visiškai nevertinga nuomonė.",
+    "split": "train"
+  },
+  {
+    "id": 177,
+    "informal_text": "Nu nafik, kas čia per outfitas, kaip iš 2009",
+    "formal_text": "Apranga atrodo kaip iš 2009 metų.",
+    "split": "test"
+  },
+  {
+    "id": 178,
+    "informal_text": "Čia gi ne treningai, čia tragedija",
+    "formal_text": "Tai ne sportinė apranga, o tragediškai atrodantys drabužiai.",
+    "split": "train"
+  },
+  {
+    "id": 179,
+    "informal_text": "Kas čia per durnas flexas su telefonu",
+    "formal_text": "Tai kvailas pasigyrimas telefonu.",
+    "split": "train"
+  },
+  {
+    "id": 180,
+    "informal_text": "Nu jo, dar vienas „verslininkas“ iš TikToko",
+    "formal_text": "Dar vienas save verslininku vadinantis žmogus iš TikTok platformos.",
+    "split": "train"
+  },
+  {
+    "id": 181,
+    "informal_text": "Čia gi visiškas attention seeking",
+    "formal_text": "Tai visiškas dėmesio siekimas.",
+    "split": "train"
+  },
+  {
+    "id": 182,
+    "informal_text": "Blet, kas tau su veidu, filtras ar kas",
+    "formal_text": "Kas tavo veidui nutiko, ar tai filtras?",
+    "split": "train"
+  },
+  {
+    "id": 183,
+    "informal_text": "Blet, tavo šuo atrodo pavargęs nuo tavęs",
+    "formal_text": "Tavo šuo atrodo pavargęs nuo tavęs.",
+    "split": "train"
+  },
+  {
+    "id": 184,
+    "informal_text": "Matosi kad su šaibom hujova jei pamonius energetinius jau reklamuoji.",
+    "formal_text": "Matosi, kad prasta piniginė situacija, jeigu jau keistus energetinius gėrimus reklamuoji.",
+    "split": "test"
+  },
+  {
+    "id": 185,
+    "informal_text": "Palangoj grebliu bangas lyginti",
+    "formal_text": "Palangoje su grėbliu bangas lyginti.",
+    "split": "train"
+  },
+  {
+    "id": 186,
+    "informal_text": "Girdėjau. Jis nepylė pirvo ant Lietuvos. Jis purvino teisėsaugą, kuri pedofilui skiria 7 m. o jam 6.",
+    "formal_text": "Girdėjau. Jis nepylė purvo ant Lietuvos. Jis pylė purvą ant teisėsaugos, kuri pedofilui skiria 7 metus, o jam 6.",
+    "split": "test"
+  },
+  {
+    "id": 187,
+    "informal_text": "Jis megsta tiesa,o visi pries,gal viena kart tauta ijungs smegenis,kas vyksta pas mus?pedofilai laisvei,miskai niekinami,ar tai normalu?",
+    "formal_text": "Jis mėgsta tiesa, o visi kiti yra prieš ją. Gal vieną kartą tauta įjungs smegenis? Kas vyksta pas mus? Pedofilai laisvėje, miškai niekinami, ar tai normalu?",
+    "split": "train"
+  },
+  {
+    "id": 188,
+    "informal_text": "Kiekvienas turi teisę pasisakyti, gal jums tas nepatinka, bet gi tai jo nuomonė juolab kad tipo visi už laisvą žodį, tai kokios problemos,????",
+    "formal_text": "Kiekvienas turi teisę pasisakyti, gal jums tai nepatinka, betgi tai yra jo nuomonė. Juolab, kad visi už laisvą žodį, tai kokios problemos?",
+    "split": "train"
+  },
+  {
+    "id": 189,
+    "informal_text": "Viskas ok,hebra parėmė celofaną prisipirko celofanų,tai galės žmogus dabar kurį tai laiką ramiai sau pagyvent,paskui kaip baigsis € ,vėl kažką sugalvos",
+    "formal_text": "Viskas gerai, žmonės parėmė „celofaną“, prisipirko „celofanų“, tai galės žmogus dabar kurį tai laiką ramiai sau pagyventi. Paskui, kai baigsis pinigai, vėl kažką sugalvos.",
+    "split": "train"
+  },
+  {
+    "id": 190,
+    "informal_text": "Lai ir pasilieka, kur nuvažiavo.",
+    "formal_text": "Tegul ir pasilieka, kur nuvažiavo.",
+    "split": "train"
+  },
+  {
+    "id": 191,
+    "informal_text": "Ogal jis teisybe pasakoja ką negalima?",
+    "formal_text": "O gal jis teisybę pasakoja, ką negalima?",
+    "split": "train"
+  },
+  {
+    "id": 192,
+    "informal_text": "gal kas žino, kodėl FB grybauja ir tokius randominius postus man meta?",
+    "formal_text": "Gal kas žino, kodėl Facebook grybauja ir tokius atsitiktinius įrašus man rodo?",
+    "split": "train"
+  },
+  {
+    "id": 193,
+    "informal_text": "Lopas",
+    "formal_text": "Kvailys",
+    "split": "train"
+  },
+  {
+    "id": 194,
+    "informal_text": "Kas heitina centrines duris ?",
+    "formal_text": "Kas nemėgsta centrinių durų?",
+    "split": "test"
+  },
+  {
+    "id": 195,
+    "informal_text": "Kada jį buvai sutikes?",
+    "formal_text": "Kada jį buvai sutikęs?",
+    "split": "test"
+  },
+  {
+    "id": 196,
+    "informal_text": "Todėl, kad dalis vyrų mano, kad jam patikusi moteris privalo su juo bendraut, rodyt dėmesį, o jei ta moteris į jį nekreipia dėmesio - manosi galintis ją žemint. Čia toks vyrų \"entitlement\" jausmas.",
+    "formal_text": "Todėl, kad dalis vyrų mano, jog jam patikusi moteris privalo su juo bendrauti, rodyti dėmesį, o jei ta moteris į jį nekreipia dėmesio – manosi galintis ją žeminti. Čia toks vyrų pasididžiavimo jausmas.",
+    "split": "train"
+  },
+  {
+    "id": 197,
+    "informal_text": "Paskolink šitam nevykėliui testo nes pas jį astrogeno daugiau nei pas moterį.",
+    "formal_text": "Paskolink šitam nevykėliui testosterono, nes pas jį estrogeno daugiau nei pas moterį.",
+    "split": "train"
+  },
+  {
+    "id": 198,
+    "informal_text": "koks neapsisprendes tai pirma daili,po to sliksti",
+    "formal_text": "Koks neapsisprendęs – tai pirmai daili, o po to jau šlykšti.",
+    "split": "test"
+  },
+  {
+    "id": 199,
+    "informal_text": "Menulio fazes stipriai paveike vyriuka",
+    "formal_text": "Menulio fazės stipriai paveikė vyruką.",
+    "split": "train"
+  },
+  {
+    "id": 200,
+    "informal_text": "ir graudu ir juokinga zmogus pats nezino",
+    "formal_text": "Ir graudu, ir juokinga, žmogus pats nežino.",
+    "split": "train"
+  },
+  {
+    "id": 201,
+    "informal_text": "Žinant, kokią valdžią vln sugeba išsirinkti, gali būti kad sostinė grįš prie konkės ar diližanų.",
+    "formal_text": "Žinant, kokią valdžią vilniečiai sugeba išsirinkti, gali būti, kad sostinė grįš prie tempiamų vėžimų ar diližanų.",
+    "split": "train"
+  },
+  {
+    "id": 202,
+    "informal_text": "Jūs kelius pradžioje normaliai sutvarkykit, esama autobuso troleibuso parka atnaujinkite,kad nelužinetu važiuojant, išpleskit autobuso maršrutus. Reikia sutvarkyti esamas problemas o ne kurti naujas!",
+    "formal_text": "Jūs kelius pradžioje normaliai sutvarkykite, esamą autobusų bei troleibusų parką atnaujinkite, kad nelūžinėtų važiuojant, išplėskite autobusų maršrutus. Reikia sutvarkyti esamas problemas, o ne kurti naujas!",
+    "split": "train"
+  },
+  {
+    "id": 203,
+    "informal_text": "Šiaip tai čia pyzdec yra.",
+    "formal_text": "Šiaip tai čia nesąmonė visiška yra.",
+    "split": "train"
+  },
+  {
+    "id": 204,
+    "informal_text": "Daug kas pamiršta, kad vienas efektyviausiu mūsų kalbos žodžių 'pisti' yra lietuvių kilmės. Tad rekomenduoju per daug neužsipisti ir vartoti šitą",
+    "formal_text": "Daugelis pamiršta, kad žodis „pisti“ yra lietuvių kilmės, todėl siūlyčiau vartoti lietuviškus keiksmažodžius.",
+    "split": "train"
+  },
+  {
+    "id": 205,
+    "informal_text": "PISKIT LAUK, BYBČIULPIAI, SU SAVO \"RUPŪS MILTAI\" IR KITAIS ATSEIT LIETUVIŠKAIS \"KEIKSMAŽODŽIAIS\", KURIŲ JUS MOKYKLOJE MOKĖ BYBIO NERAGAVUSIOS TIKYBOS MOKYTOJOS. VIENU ŽODŽIU, UŽPISOT JŪS, NEDAPISTI BYBGALVIAI, TODĖL PISAU ANT JŪSŲ IR BYBĮ DĖJAU.",
+    "formal_text": "Nesutinku su siūlomais pakaitalais ir manau, kad jie skamba nenatūraliai bei dirbtinai.",
+    "split": "train"
+  },
+  {
+    "id": 206,
+    "informal_text": "Grauzk bybi",
+    "formal_text": "Palik mane ramybėje.",
+    "split": "train"
+  },
+  {
+    "id": 207,
+    "informal_text": "Eik šikt, ėsk šūdą, kurva (diskutuotinas ar lietuviškas), šūdas, visos pisti formos. Pilna variantų kai nori",
+    "formal_text": "Galima vartoti ir tokius lietuviškus keiksmus; variantų tikrai netrūksta.",
+    "split": "train"
+  },
+  {
+    "id": 208,
+    "informal_text": "Pisti, bybys ir dar kurva galima sakyti jei su lenkais geresni santykiai nei seniau.",
+    "formal_text": "Žodžius „pisti“, „bybys“ ir „kurva“ kai kas laiko priimtinais, ypač neformalioje kalboje.",
+    "split": "train"
+  },
+  {
+    "id": 209,
+    "informal_text": "pisk laukais",
+    "formal_text": "Prašau išeiti.",
+    "split": "train"
+  },
+  {
+    "id": 210,
+    "informal_text": "As paskutinius kelis metus netyčiom vietoj “eina nx” pradėjau sakyt “tegu pasipisa” arba “pasipisk į šikną” jei riebiau reik. Tai eina keiktis ir lietuviškai. Tik nežinau kaip “blet” atsisakyt lol",
+    "formal_text": "Pastaraisiais metais vietoj rusiškų keiksmų pradėjau vartoti lietuviškus atitikmenis, nors vis dar nežinau, kuo geriausia pakeisti žodį „blet“.",
+    "split": "train"
+  },
+  {
+    "id": 211,
+    "informal_text": "Nežinau kas tokioj situacijoj naudoja “Eik ant bybio” vietoj blt, bet tą frazę puikiai pakeičia “pisk tu”. Pvz mes vaikystej Vilniuj sakydavom “pašol nx gandonas”, o mano pusbrolis iš Alytaus sakydavo panašioj situacijoj “pisk iš čia asile”",
+    "formal_text": "Nežinau, kas tokioje situacijoje vartoja posakį „eik ant bybio“ vietoj „blt“, tačiau frazę „pisk tu“ kai kas laiko tinkamu pakaitalu; skirtinguose miestuose buvo paplitę ir skirtingi grubūs posakiai.",
+    "split": "train"
+  },
+  {
+    "id": 212,
+    "informal_text": "Nežinau, ar degraduojam. Kulikauskas knygoje “Lietuvio kodas” rašo, kad iki Jablonskio dar ne tokie dalykai kalboje darėsi. Ten išvis buvo įvairiausių skolinių kratinys be jokių taisyklių. Manau, kad pakankamai gerai išgryninome kalbą, gal net per smarkiai. Bet jo, čainikas tai bybiškas žodis.",
+    "formal_text": "Nesu tikras, ar kalba degraduoja. Kulikauskas knygoje „Lietuvio kodas“ rašo, kad iki Jablonskio kalboje buvo daug įvairių skolinių be aiškių taisyklių. Manau, kad kalbą gana gerai išgryninome, gal net pernelyg, nors žodis „čainikas“ vis tiek skamba gana grubiai.",
+    "split": "train"
+  },
+  {
+    "id": 213,
+    "informal_text": "Supistos sraigės!",
+    "formal_text": "Šios sraigės labai erzina.",
+    "split": "train"
+  },
+  {
+    "id": 214,
+    "informal_text": "Velniai griebtų - tiesą sakai. Mokykloj mokė da keist į iš. Bet turbūt jau kaip pačiam širdis geidžia, kaip gražiau. Tarp kitko, čia šneka eina apie rusiškus keiksmažodžius, bet aš dar lenkišką \"kurwa\" nuo jaunystės iš esmės išstūmiau su \"kurmi\". Ai, ir kartais labai susinervinus išsprūsta labai gražus \"šūdas neraliuotas\".",
+    "formal_text": "Sutinku su tuo, ką sakai. Mokykloje mus mokė priešdėlį „da“ keisti į „iš“, tačiau galiausiai kiekvienas renkasi tai, kas jam skamba gražiau. Kalbant apie keiksmus, lenkišką „kurwa“ nuo jaunystės iš esmės pakeičiau žodžiu „kurmi“, o labai susinervinęs kartais pasakau „šūdas nerealizuotas“.",
+    "split": "train"
+  },
+  {
+    "id": 215,
+    "informal_text": "asmeniškai naudoju \"eina peklon\" vietoj \"eina nx\", labai laisvai sakos. \"blet\" tai sutinku kad sunku rast pakaitalą, tai tiesiog kartais naudoju \"kurwa\", arba grįžtu prie šaknų ir kertu \"velnias/velniava\"",
+    "formal_text": "Asmeniškai vietoj „eina nx“ vartoju „eina peklon“, nes šis posakis lengvai ištariamas. O žodžiui „blet“ pakaitalą rasti sunku, todėl kartais sakau „kurwa“ arba grįžtu prie senesnių žodžių, tokių kaip „velnias“ ar „velniava“.",
+    "split": "test"
+  },
+  {
+    "id": 216,
+    "informal_text": "Beje, šūdas yra gan geras keiksmažodis. Ypač gerai su blet apkeisti dažnais atvejais.",
+    "formal_text": "Beje, žodis „šūdas“ yra gana veiksmingas keiksmažodis. Daugeliu atvejų jis gali pakeisti „blet“.",
+    "split": "train"
+  },
+  {
+    "id": 217,
+    "informal_text": "O tai kurva netinka plaktuko atveju? Praktiškai lietuviškas žodis nors ir lenkų kilmės",
+    "formal_text": "Ar žodis „kurva“ netiktų tokioje situacijoje? Nors jis yra lenkų kilmės, praktiškai jau prigijęs kalboje.",
+    "split": "test"
+  },
+  {
+    "id": 218,
+    "informal_text": "Aš žinau vieną merginą, kuri vis sako \"kurmi\", ir tau vis atrodo kad sakys \"kurva\", bet jin vis sako \"kurmi, kas per šūdas\", tai tas pakaitalas man toks genialus atrodo.",
+    "formal_text": "Pažįstu merginą, kuri nuolat sako „kurmi“, todėl iš pradžių atrodo, kad ji tars „kurva“, tačiau ji pasako „kurmi, kas per nesąmonė“. Man tas pakaitalas atrodo labai vykęs.",
+    "split": "train"
+  },
+  {
+    "id": 219,
+    "informal_text": "Kokiam kontekste naudoji supistas sraiges",
+    "formal_text": "Kokiame kontekste vartoji posakį „supistos sraigės“?",
+    "split": "test"
+  },
+  {
+    "id": 220,
+    "informal_text": "Čiulpk Bybi - suck a dick. Or more PG version would be Čiulpk Pempe - same meaning, but pempe is a bird. Can't tell you why people use that, but I always found it hilarious",
+    "formal_text": "Posakis „čiulpk bybį“ anglų kalboje atitiktų „suck a dick“, o švelnesnis variantas būtų „čiulpk pempę“. Negaliu paaiškinti, kodėl taip sakoma, bet man šis posakis visada atrodė juokingas.",
+    "split": "train"
+  },
+  {
+    "id": 221,
+    "informal_text": "Noriu, kad rusai suprastu, kai pasiusiu (esant reikalui) 😄 Siaip keista, kad rasytine ar sakytine kalba, rusiskai keiksmazodziai eina i trasa. Bet jei mintyse pagalvoju, bet neistransliuoju, tai dazniausiai lietuviski ar angliski keiksmazodziai (fucking idiot, holy shit, debilas, supistos sraiges, kausas).",
+    "formal_text": "Noriu, kad prireikus rusai mane suprastų. Keista tai, kad tiek rašytinėje, tiek sakytinėje kalboje rusiški keiksmažodžiai vartojami labai lengvai, nors mintyse dažniau pagalvoju lietuviškus ar angliškus keiksmus.",
+    "split": "train"
+  },
+  {
+    "id": 222,
+    "informal_text": "KA TU ČIA VARGONINI SU SAVO KAIMIETIŠKOM SLIDĖM? MESK SAVO NYKŠTUKINĮ BYBĮ ANT BAČKOS, PAŽIŪRĖSIM AR CUKINIJA UŽMESTA KREIVĄ KAMPĄ IŠTAISYS. KAIP AŠ PAVARGAU NUO JŪSŲ PSEUDO KAIMO ELITO,KUR NEŽINO KAIP SVARAINIŲ KRŪMAS ATRODO,O JAU PISA PROTĄ,KAD KEBABAI TRAKUOSE PRASTI. VAZIUOKIT Į JURMALĄ IR TEN PRIMYŽTOJ JŪROJ MAUDYKITES,KOL KIAUNIŲ LŪPŲ BOTOKSAS NUO KARŠČIO NEPASILEIDO.",
+    "formal_text": "Labai pavargau nuo žmonių, kurie demonstruoja tariamą kaimišką elitizmą ir nuolat menkina kitų nuomonę, nors patys menkai išmano aptariamą temą.",
+    "split": "test"
+  },
+  {
+    "id": 223,
+    "informal_text": "As others said it would be a mix of pl/rus/eng words like kurva or suka(bitch), nu naxui/ naxui/blet/ kurva blet(kinda just used like fuck), eik/pisk (tu) naxui (go fuck yourself), padla, dusk kiaule(choke you pig), pydaras/pydarastas is a slur so you should consider wheter you want that in your story, tho i feel lithuanians are more loose with this one.",
+    "formal_text": "Kaip ir kiti minėjo, dažniausiai vartojamas lenkų, rusų ir anglų kilmės keiksmų mišinys, pavyzdžiui, „kurva“, „suka“, „naxui“ ar „blet“. Kai kurie posakiai yra labai įžeidūs, todėl reikėtų gerai apsvarstyti, ar verta juos naudoti tekste.",
+    "split": "train"
+  },
+  {
+    "id": 224,
+    "informal_text": "Yeah. I think if you add blemba (a milder blet), šūdas (shit), pyzdiec (a variant of your generic fuck), čiulpk bybį (suck a dick) and its cognates (bybį dėjau, uostyk bybį, bybienė) to the ones you listed, you’ll have a mostly full array of popular cursewords. I’m a HUGE fan of uostyk kabančius (smell the hanging ones) personally (or just uostyk), but I’m not a teenager anymore, so.",
+    "formal_text": "Manau, kad prie jau paminėtų žodžių verta pridėti „blemba“, „šūdas“, „pyzdiec“, „čiulpk bybį“ ir panašius posakius. Tada susidarytų gana platus dažniausiai vartojamų keiksmų rinkinys.",
+    "split": "train"
+  },
+  {
+    "id": 225,
+    "informal_text": "Dar “o kurwa”",
+    "formal_text": "Dar galima pasakyti „o kurwa“.",
+    "split": "train"
+  },
+  {
+    "id": 226,
+    "informal_text": "Ką blet?? Tau 9?",
+    "formal_text": "Ką tu kalbi? Tau devyneri metai?",
+    "split": "train"
+  },
+  {
+    "id": 227,
+    "informal_text": "Aš už lietuviškus keiksmažodžius. Tai ne tik blet ar kurva. Tai kūryba. Tu sukrešęs šūdo gabale, įstrigęs šuns šiknos verpete be savigarbos... tai menas 💀",
+    "formal_text": "Palaikau lietuviškų keiksmažodžių vartojimą. Tai nėra vien „blet“ ar „kurva“; tai tam tikra kūrybos forma.",
+    "split": "train"
+  },
+  {
+    "id": 228,
+    "informal_text": "Kam tu mano pasvorda cia visiems parasei ?",
+    "formal_text": "Kam mano slaptažodį parašei visiems?",
+    "split": "train"
+  },
+  {
+    "id": 229,
+    "informal_text": "Daugeliu atveju vietoje riebaus \"eina nx\" puikiai sueina ir \"eina peklon\". Gal pradžioj jautiesi kaip kaimietis, bet pripranti",
+    "formal_text": "Daugeliu atvejų vietoj grubaus „eina nx“ puikiai tinka „eina peklon“. Iš pradžių tai gali skambėti neįprastai, bet vėliau priprantama.",
+    "split": "train"
+  },
+  {
+    "id": 230,
+    "informal_text": "Kaip kiti minėjo, bybis ir pisti yra puikūs keiksmažodžiai. Nors ir ne tokia pati reikšmė, sakyčiau, kad panašiai naudojami kaip vittu suomiškai.",
+    "formal_text": "Kaip ir kiti minėjo, „bybis“ ir „pisti“ yra puikūs keiksmažodžiai. Nors jų reikšmė nėra visiškai tokia pati, jie vartojami panašiai kaip suomiškas žodis „vittu“.",
+    "split": "test"
+  },
+  {
+    "id": 231,
+    "informal_text": "Jeigu čia ne satire, tai seni užuojauta tavo panai, draugams, šeimai ir visiems aplinkiniams kuriems šitą idėją papitchinai :D ar jūs blet neturit kitokių problemų? :D keiksmažodžiai jiem matai užkliuvo nu pzdc",
+    "formal_text": "Jei tai ne satyra, nuoširdžiai užjaučiu tavo partnerę, draugus, šeimą ir visus kitus, kuriems pristatei šią idėją. Ar tikrai neturite svarbesnių problemų, kad taip susitelkėte į keiksmažodžius?",
+    "split": "train"
+  },
+  {
+    "id": 232,
+    "informal_text": "Px vapse",
+    "formal_text": "Man tai visiškai nesvarbu.",
+    "split": "train"
+  },
+  {
+    "id": 233,
+    "informal_text": "Mačiau kažkur kad Algis Ramanauskas ir net galbūt kažkas iš kalbininkų mano, kad priešdėlį “da” reik legalizuot, viskas su juo gerai",
+    "formal_text": "Esu matęs nuomonių, kad priešdėlį „da“ reikėtų legalizuoti, nes su juo iš esmės viskas gerai.",
+    "split": "train"
+  },
+  {
+    "id": 234,
+    "informal_text": "eik tu bybiop",
+    "formal_text": "Eik šalin.",
+    "split": "train"
+  },
+  {
+    "id": 235,
+    "informal_text": "“Bybį dėjau” skaityčiau kaip visai lietuvišką išsireiškimą",
+    "formal_text": "Posakį „bybį dėjau“ laikyčiau visai lietuvišku išsireiškimu.",
+    "split": "train"
+  },
+  {
+    "id": 236,
+    "informal_text": "kaubojus bybiopas :D",
+    "formal_text": "Tai skamba kaip kaubojiškas posakis.",
+    "split": "test"
+  },
+  {
+    "id": 237,
+    "informal_text": "Dar Bybys labai geras. Irgi lietuviškas. Ir man stipresnis nei rusiškas atitikmuo. Tik gaila, kad “eik ant bybio” visiškai neskamba, nesugalvoju kaip verstis be rusiško atitikmens kai koks plaktukas ant kojos piršto nukris.",
+    "formal_text": "Žodis „bybys“ taip pat visai geras ir lietuviškas, be to, man jis skamba stipriau nei rusiškas atitikmuo. Vis dėlto posakis „eik ant bybio“ skamba nenatūraliai, todėl sunku rasti tinkamą pakaitalą situacijai, kai, pavyzdžiui, plaktukas trenkia per kojos pirštą.",
+    "split": "train"
+  },
+  {
+    "id": 238,
+    "informal_text": "\"Nedakruštas šunpalaiki tu\"",
+    "formal_text": "Tu nedoras žmogau.",
+    "split": "train"
+  },
+  {
+    "id": 239,
+    "informal_text": "Žodis įtrauktas į lietuvių kalbos žodynus, dėl to ir diskutuotinas. Bandžiau klausti VLKK formaliai, bet kurvos neatsakė",
+    "formal_text": "Tas žodis įtrauktas į lietuvių kalbos žodynus, todėl dėl jo vartosenos dar galima diskutuoti. Bandžiau oficialiai kreiptis į VLKK, bet atsakymo negavau.",
+    "split": "train"
+  },
+  {
+    "id": 240,
+    "informal_text": "Literaliai, sakai",
+    "formal_text": "Tiesiogine prasme, sakai.",
+    "split": "train"
+  },
+  {
+    "id": 241,
+    "informal_text": "Grynai taip ir įgarsina lietuviškai amerikietiškus filmus",
+    "formal_text": "Būtent taip lietuviškai įgarsinami amerikietiški filmai.",
+    "split": "train"
+  },
+  {
+    "id": 242,
+    "informal_text": "Smūk bybiuosna!",
+    "formal_text": "Prašau eiti šalin.",
+    "split": "train"
+  },
+  {
+    "id": 243,
+    "informal_text": "Tiesiog, musu kalba ant tiek grazi, kad net neturim keiksmazodziu.",
+    "formal_text": "Tiesiog mūsų kalba tokia graži, kad net neturime savų keiksmažodžių.",
+    "split": "train"
+  },
+  {
+    "id": 244,
+    "informal_text": "Labai geras, tik kaip su tuo \"da\"? Neprikruštas? :D",
+    "formal_text": "Labai gerai, tik neaišku, kaip tokiu atveju elgtis su priešdėliu „da“. Gal tiktų „neprikruštas“?",
+    "split": "train"
+  },
+  {
+    "id": 245,
+    "informal_text": "sitas tikrai stipriau nei \"idi na\\*\\*\\*\" daug labiau zeidziantis ir labai asmeniskas, tikslus toks.",
+    "formal_text": "Šis posakis tikrai skamba stipriau nei rusiškas atitikmuo, yra gerokai įžeidesnis ir labai asmeniškas.",
+    "split": "train"
+  },
+  {
+    "id": 246,
+    "informal_text": "Pyzda yra ruZiškas. Vietoj tos turim Pūtę. Laižyk pūtę, uostyk pūtę, graužk pūtę, o tu pūte neplauta, skalauk pūtę, šerk pūtę ir t.t.",
+    "formal_text": "Žodis „pyzda“ yra rusiškos kilmės. Vietoj jo siūlomas lietuviškas pakaitalas „pūtė“, iš kurio galima sudaryti įvairių posakių.",
+    "split": "train"
+  },
+  {
+    "id": 247,
+    "informal_text": "apsišik aukštielninkas",
+    "formal_text": "Apsijuok visiškai.",
+    "split": "train"
+  },
+  {
+    "id": 248,
+    "informal_text": ">\"kvestionuoti\" o ne \"abejoti\" Šitas kažkaip labiau rėžia ausį už bet kokius rusiškus keiksmažodžius...",
+    "formal_text": "Žodis „kvestionuoti“, o ne „abejoti“, man kažkodėl labiau rėžia ausį nei bet kurie rusiški keiksmažodžiai.",
+    "split": "train"
+  },
+  {
+    "id": 249,
+    "informal_text": "Oops, reikėjo sakyti \"tiesiog\"",
+    "formal_text": "Atsiprašau, reikėjo sakyti „tiesiog“.",
+    "split": "train"
+  },
+  {
+    "id": 250,
+    "informal_text": "Ką tu čia niekus tauziji, rupūs miltai.",
+    "formal_text": "Ką tu čia kalbi, nesąmone.",
+    "split": "train"
+  },
+  {
+    "id": 251,
+    "informal_text": "Kad tave šikantį sutrauktu",
+    "formal_text": "Tegu tave ištiktų nemalonumai.",
+    "split": "train"
+  },
+  {
+    "id": 252,
+    "informal_text": "Kad tave kur kiškiai ausimis užbadytu",
+    "formal_text": "Tegu tave ištiktų didelė nesėkmė.",
+    "split": "train"
+  },
+  {
+    "id": 253,
+    "informal_text": "Tarptautinis - taip, rėžia ausi - irgi taip. Labai baisiai skamba kai pseudomokslinkai iš TSPMU pliurpia - aš kvestionuoju šį konsensusą, manau reikia pakontempliuoti apie kitus varijabelius",
+    "formal_text": "Tai tarptautinis žodis, tačiau ausį jis tikrai rėžia. Labai prastai skamba, kai pseudomokslininkai kalba apie „kvestionavimą“ ir „variabelius“.",
+    "split": "train"
+  },
+  {
+    "id": 254,
+    "informal_text": "Ciulpk bobutei kiaura danti.",
+    "formal_text": "Eik šalin ir nebekalbėk nesąmonių.",
+    "split": "train"
+  },
+  {
+    "id": 255,
+    "informal_text": "Pist ir bybys yra pilnai naminiai lietuviški žodžiai, plataus ir laisvo naudojimo.",
+    "formal_text": "Žodžiai „pist“ ir „bybys“ yra visiškai savi lietuviški žodžiai, vartojami plačiai ir laisvai.",
+    "split": "train"
+  },
+  {
+    "id": 256,
+    "informal_text": "Blogai yra kai butelį išgėręs pradedi dainuot rusiškas dainas, o mažas keiksmažodis yra smulkmena.",
+    "formal_text": "Tikroji problema prasideda tada, kai išgėręs butelį pradedi dainuoti rusiškas dainas, o pavienis keiksmažodis yra tik smulkmena.",
+    "split": "train"
+  },
+  {
+    "id": 257,
+    "informal_text": "Po bybiu man",
+    "formal_text": "Man tai nerūpi.",
+    "split": "train"
+  },
+  {
+    "id": 258,
+    "informal_text": "Ir pasakyt tai Loretai Graužinienei",
+    "formal_text": "Pabandykite tai pasakyti ir Loretai Graužinienei.",
+    "split": "train"
+  },
+  {
+    "id": 259,
+    "informal_text": "keikis angliskai. man keista kai zmones naudoja tuos rusiskus zodzius vietoj paprasto FUCK. Rupus miltai skamba kiek kvailokai.",
+    "formal_text": "Geriau keiktis angliškai. Man keista, kai žmonės vietoj paprasto „fuck“ vartoja rusiškus žodžius. „Rupūs miltai“ skamba kiek kvailokai.",
+    "split": "test"
+  },
+  {
+    "id": 260,
+    "informal_text": "Vienuoliktoj klasėj siunčiau visus lapėm. Su draugeliu vis dar turim vidinį juokelį, jog negalima pabaigt \"rūpus miltai...\" nes per daug vulgaru. Na, dar turim lenkišką kurvą ir lietuvišką bybį. tai tiek iš mano patirties.",
+    "formal_text": "Vienuoliktoje klasėje visus siųsdavau lapėmis. Su draugu iki šiol turime vidinį juokelį, kad negalima užbaigti posakio „rūpūs miltai...“, nes jis neva pernelyg vulgarus. Be to, dar vartojame lenkišką „kurvą“ ir lietuvišką „bybį“.",
+    "split": "train"
+  },
+  {
+    "id": 261,
+    "informal_text": "Tu akivaizdžiai nežinai kas yra vartotini žodziai ir kas yra svetimybės. Pasakyk man žodžio \"kvestionuoti\" atitikmenį situacijoj: Aš laikau savo viršininko sprendimus labai abejotinais, bet aš nutylėsiu ir jų nekvestionuosiu, nes galiu užsitraukti nemalonumų.",
+    "formal_text": "Akivaizdu, kad painioji vartotinus žodžius ir svetimybes. Pasakyk, koks būtų žodžio „kvestionuoti“ atitikmuo sakinyje: „Laikau savo viršininko sprendimus abejotinais, tačiau tylėsiu ir jų nekvestionuosiu, nes galiu užsitraukti nemalonumų.“",
+    "split": "train"
+  },
+  {
+    "id": 262,
+    "informal_text": "Bybink iš čia. Kuo blogai?",
+    "formal_text": "Prašau išeiti. Kuo tai blogai?",
+    "split": "train"
+  },
+  {
+    "id": 263,
+    "informal_text": "“Po šimts” vietoj bl vartoju kartais",
+    "formal_text": "Kartais vietoj „bl“ vartoju posakį „po šimts“.",
+    "split": "train"
+  },
+  {
+    "id": 264,
+    "informal_text": "Kažkada tokius vadinau šliaužtinukais, nu gal konkrečiai gatvėje",
+    "formal_text": "Anksčiau tokius žmones vadindavau šliaužtinukais, ypač kalbėdamas apie juos gatvėje.",
+    "split": "train"
+  },
+  {
+    "id": 265,
+    "informal_text": "Tu savo žodyną fotografuok kiek nori, man jis ne šventasis raštas. Lietuvių kalboje yra atitikmenys visiems šiems žodžiams, tačiau norint būti baisiai mandru išsilavinusiu filosofu, būtina prikišti įvairių svetimybių kurios skamba nenaturaliai. Kuom skiriasi žodyno išplėtimas lotynų ir prancūzų skoliniais nuo rusų ir lenkų skolinių?",
+    "formal_text": "Savo žodyną gali fotografuoti kiek nori, bet man jis nėra šventasis raštas. Lietuvių kalboje yra atitikmenų visiems šiems žodžiams, tačiau norėdami pasirodyti itin išsilavinę kai kurie žmonės sąmoningai vartoja svetimybes, kurios skamba nenatūraliai. Kuo lotynų ar prancūzų skoliniai iš esmės skiriasi nuo rusų ar lenkų skolinių?",
+    "split": "train"
+  },
+  {
+    "id": 266,
+    "informal_text": "Šventi šūdai",
+    "formal_text": "Šventieji dievai.",
+    "split": "train"
+  },
+  {
+    "id": 267,
+    "informal_text": "Eik peklon mano megstamiausias",
+    "formal_text": "Posakis „eik peklon“ man yra mėgstamiausias.",
+    "split": "train"
+  },
+  {
+    "id": 268,
+    "informal_text": "\"Šimts pypkių\" irgi gerai skamba vietoj bl.",
+    "formal_text": "Posakis „šimts pypkių“ taip pat visai gerai skamba vietoj „bl“.",
+    "split": "train"
+  },
+  {
+    "id": 269,
+    "informal_text": "Also what kind of book are you writing, op?",
+    "formal_text": "Beje, kokią knygą rašai?",
+    "split": "train"
+  },
+  {
+    "id": 270,
+    "informal_text": "Literally yes, but “eik šikt” and “eina šikt” are probably closer to “damn you” and “damn it” in terms of vibes, I’d say.",
+    "formal_text": "Pažodžiui taip, tačiau posakiai „eik šikt“ ir „eina šikt“ pagal emocinį atspalvį yra artimesni reikšmėms „po velnių“ ar „velniai griebtų“.",
+    "split": "train"
+  },
+  {
+    "id": 271,
+    "informal_text": "Bybį tau į kairę akį",
+    "formal_text": "Tai labai grubus ir įžeidus posakis.",
+    "split": "train"
+  },
+  {
+    "id": 272,
+    "informal_text": "Galima ir kitaip-šuns nuokruša.",
+    "formal_text": "Galima pasakyti ir kitaip: „šuns nuokruša“.",
+    "split": "train"
+  },
+  {
+    "id": 273,
+    "informal_text": "kvestionuoti nebūtinai reiškia abejoti",
+    "formal_text": "Žodis „kvestionuoti“ nebūtinai reiškia „abejoti“.",
+    "split": "train"
+  },
+  {
+    "id": 274,
+    "informal_text": "go take a shit :DD pravers uzsieny, aciu",
+    "formal_text": "Posakis „go take a shit“ dar gali praversti užsienyje, ačiū.",
+    "split": "train"
+  },
+  {
+    "id": 275,
+    "informal_text": "Gyvenu užsienyje bet kažkaip dar nepanaudojau",
+    "formal_text": "Gyvenu užsienyje, bet kol kas dar neteko to pavartoti.",
+    "split": "train"
+  },
+  {
+    "id": 276,
+    "informal_text": "Maybe cuz pempe sound similar to pimpe (penis)?",
+    "formal_text": "Galbūt todėl, kad „pempe“ skamba panašiai kaip „pimpė“.",
+    "split": "train"
+  },
+  {
+    "id": 277,
+    "informal_text": "Smaukalas",
+    "formal_text": "Niekingas žmogus.",
+    "split": "train"
+  },
+  {
+    "id": 278,
+    "informal_text": "Pajebat seni",
+    "formal_text": "Man tai nerūpi, bičiuli.",
+    "split": "train"
+  },
+  {
+    "id": 279,
+    "informal_text": "Eik sikt I bonka",
+    "formal_text": "Eik šalin.",
+    "split": "train"
+  },
+  {
+    "id": 280,
+    "informal_text": "Papisk taburetę ?",
+    "formal_text": "Gal verčiau užsiimk kuo nors kitu?",
+    "split": "test"
+  },
+  {
+    "id": 281,
+    "informal_text": "Kad tave griausmas.",
+    "formal_text": "Kad tave ištiktų nelaimė.",
+    "split": "test"
+  },
+  {
+    "id": 282,
+    "informal_text": "TIL. Aciu, patasiau!",
+    "formal_text": "Šiandien sužinojau ką nors nauja. Ačiū, pataisiau.",
+    "split": "train"
+  },
+  {
+    "id": 283,
+    "informal_text": "Kasyk sliekui pažastį",
+    "formal_text": "Užsiimk beprasmiu darbu.",
+    "split": "train"
+  },
+  {
+    "id": 284,
+    "informal_text": "* Kiaušinis * Pistonas",
+    "formal_text": "Pavyzdžiui, galima vartoti žodžius „kiaušinis“ ir „pistonas“.",
+    "split": "train"
+  },
+  {
+    "id": 285,
+    "informal_text": "pirmi kartai smagiausi",
+    "formal_text": "Pirmieji kartai būna smagiausi.",
+    "split": "train"
+  },
+  {
+    "id": 286,
+    "informal_text": "We use russian ones instead",
+    "formal_text": "Vietoj jų dažniau vartojame rusiškus keiksmus.",
+    "split": "train"
+  },
+  {
+    "id": 287,
+    "informal_text": "Ačiū, labai išsamus žodynas",
+    "formal_text": "Ačiū, tai labai išsamus žodynas.",
+    "split": "train"
+  },
+  {
+    "id": 288,
+    "informal_text": "Dar velnias, dzin, blemba, šūdas",
+    "formal_text": "Dar galima paminėti „velnias“, „dzin“, „blemba“ ir „šūdas“.",
+    "split": "train"
+  },
+  {
+    "id": 289,
+    "informal_text": "Man patinka toks paprastas ir skaudus - šiukšle tu :D",
+    "formal_text": "Man patinka toks paprastas, bet skaudus pasakymas: „šiukšle tu“.",
+    "split": "train"
+  },
+  {
+    "id": 290,
+    "informal_text": "\"Pizdukas\" is a way of saying someone is foolish or ignorant.",
+    "formal_text": "Žodis „pizdukas“ vartojamas apibūdinti kvailą ar neišmanantį žmogų.",
+    "split": "train"
+  },
+  {
+    "id": 291,
+    "informal_text": "Rupus miltai, rupužė tu, kad tave kur devynios. Don't actually use those",
+    "formal_text": "Posakiai „rupūs miltai“, „rupūžė tu“ ar „kad tave kur devynios“ egzistuoja, tačiau jų realiai beveik niekas nevartoja.",
+    "split": "test"
+  },
+  {
+    "id": 292,
+    "informal_text": "eikt tu šikt, sounds like \"go shit\" or \"go poop\". But translates more like \"go away fool\" or \"go fuck yourself\".",
+    "formal_text": "Posakis „eikt tu šikt“ pažodžiui reikštų „eik tu tuštintis“, tačiau pagal prasmę labiau atitinka „eik šalin“ arba grubų paliepimą atsikabinti.",
+    "split": "train"
+  },
+  {
+    "id": 293,
+    "informal_text": "Ruzzkis gavno, ir gali drasiai aiti ant bybio namo. O ten mazi niuansai tai vaikų blevyzgos. Graži laisva Lietuva, kaip norim taip keikiames.",
+    "formal_text": "Rusišką kilmę turintį žmogų galima labai tiesmukai iškeikti ir pasiųsti šalin, tačiau visi kiti niuansai, mano manymu, tėra vaikiškos kalbos. Gyvename laisvoje Lietuvoje ir kiekvienas keikiasi kaip nori.",
+    "split": "train"
+  },
+  {
+    "id": 294,
+    "informal_text": "Vis bandau perlipti save ir išmesti okupantų keiksmažodžius, bet vis nepavyksta. Tikriausiai dėl jų riebumo, ar dėl to, kad taip stipriai jau įaugę 🥲",
+    "formal_text": "Nuolat bandau atsisakyti okupantų keiksmažodžių, tačiau man vis nepavyksta. Tikriausiai todėl, kad jie skamba stipriai ir jau yra labai įaugę į vartoseną.",
+    "split": "test"
+  },
+  {
+    "id": 295,
+    "informal_text": "As irgi apie tai nekarta esu susimastes. Kaip tauta esam \"pavyzdingi rusofobai\". Bet rusiski keiksmazodziai yra toks blind spot, kuris niekam nekliuna.",
+    "formal_text": "Aš taip pat ne kartą apie tai susimąsčiau. Kaip tauta laikome save pavyzdingais rusofobais, tačiau rusiški keiksmažodžiai yra akloji zona, kuri daugeliui neužkliūva.",
+    "split": "train"
+  },
+  {
+    "id": 296,
+    "informal_text": "Pastebėjau kad jei agresyviai vos ne bet ką lietuviškai pasakysi tai tampa durnų keiksmažodžių. Man visada juokinga kai vaidina kažką šašlykų arba ananasų",
+    "formal_text": "Pastebėjau, kad beveik bet kuris lietuviškas žodis, pasakytas agresyviu tonu, gali virsti keiksmažodžiu. Man visada juokinga, kai kas nors emocingai mini šašlykus ar ananasus.",
+    "split": "test"
+  },
+  {
+    "id": 297,
+    "informal_text": "Kaip alternatyvą galima naudoti žodį \"bliamba\". Iš esmės tai nėra keiksmažodis ir labiau naudojamas išreikšti emocijoms. Bet jis bent jau lietuviškiau skamba.",
+    "formal_text": "Kaip alternatyvą galima vartoti žodį „bliamba“. Iš esmės tai nėra keiksmažodis, veikiau emociją reiškiantis intarpas, tačiau jis bent jau skamba lietuviškiau.",
+    "split": "test"
+  },
+  {
+    "id": 298,
+    "informal_text": "\"mėšlas\" specifically refers to cow shit, but the distinction doesn't really matter when using it as a swearword. Though it's usually considered milder than \"šūdas\"",
+    "formal_text": "Žodis „mėšlas“ konkrečiai reiškia karvių išmatas, tačiau vartojant jį kaip keiksmažodį šis skirtumas paprastai nėra svarbus. Vis dėlto jis laikomas švelnesniu už žodį „šūdas“.",
+    "split": "test"
+  },
+  {
+    "id": 299,
+    "informal_text": "Manau, galima smerkti jų veiksmus neblokuojant 100% visko kas tik su jais susiję. Yra darbų reikalaujantys rusų kalbos, kad susišnekėti su kitomis rusakalbėmis šalimis, kad ir su Ukraina, pas mane tas pats, tai nuo rusų kalbos aš nepabėgsiu.",
+    "formal_text": "Manau, kad galima smerkti jų veiksmus neatsisakant visko, kas su jais susiję. Kai kuriuose darbuose rusų kalba vis dar reikalinga bendraujant su kitomis rusakalbėmis šalimis, pavyzdžiui, Ukraina, todėl visiškai jos išvengti negaliu.",
+    "split": "train"
+  },
+  {
+    "id": 300,
+    "informal_text": "Ne visai tame esmė. Mano paminėti žodžiai yra nenaturalūs, primestiniai ir skirti ne tiek minčiai perteikt,i o kiek savo įvaizdžiui formuoti. Jeigu tai būtų efektyvūs, tikslesni žodžiai, jie į kalbą įsilietų natūraliai. Kalbant apie tarptautinius žodžius - fainai. Žodis nevartotinas barbarizmas nes siejam su lenkais. Būtų nišinis žodis iš Aristotelio veikalo tai vapsėtų \"fainai fainai fainai\"",
+    "formal_text": "Esmė visai ne tai. Mano minėti žodžiai atrodo nenatūralūs, primesti ir dažnai skirti ne tiek minčiai perteikti, kiek tam tikram įvaizdžiui kurti. Jei jie būtų tikslesni ir veiksmingesni, natūraliai prigytų kalboje. Kalbant apie tarptautinius žodžius, situacija paradoksali: vieni skoliniai smerkiami dėl sąsajų su lenkais, o kiti būtų noriai vartojami, jei tik ateitų iš Aristotelio veikalo.",
+    "split": "train"
+  },
+  {
+    "id": 301,
+    "informal_text": "Kopustagalva",
+    "formal_text": "Kopūstagalvis.",
+    "split": "train"
+  },
+  {
+    "id": 302,
+    "informal_text": "Gali drasiai naudot rusiškus keiksmažodžius. Manau šitas dalykas kažkas panašaus kaip juodaodžiai Amerikoje vadina savo draugelius \"nigga\"",
+    "formal_text": "Gali drąsiai vartoti rusiškus keiksmažodžius. Mano manymu, tai šiek tiek primena tai, kaip kai kurios socialinės grupės savitai vartoja tarpusavio žargoną.",
+    "split": "train"
+  },
+  {
+    "id": 303,
+    "informal_text": "Tu akivaizdžiai nesugebi sudėlioti sakinio lietuviškai, todėl tenka skolintis kitų kalbų. Kai pats surezgi nenaturalų teismo nuosprendžio tipo sakinį, normalu kad vartai žodynus kaip išsisukti. Nevartotinus žodžius nuo vartotinų skiria tik tai jog vieni yra \"gerų kalbų\" o kiti \"blogų kalbų\"",
+    "formal_text": "Akivaizdu, kad tau sunku sklandžiai formuluoti sakinius lietuviškai, todėl tenka skolintis žodžius iš kitų kalbų. Kai pats kuri nenatūralų, teismo nuosprendį primenantį sakinį, suprantama, kad imi vartinėti žodynus ieškodamas išeities. Mano nuomone, skirtumas tarp vartotinų ir nevartotinų žodžių dažnai grindžiamas tuo, kurios kalbos laikomos „geromis“, o kurios „blogomis“.",
+    "split": "train"
+  }
+]

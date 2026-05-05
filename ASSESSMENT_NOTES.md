@@ -55,13 +55,13 @@ I evaluate the model using:
 3. character similarity,
 4. manual inspection of meaning preservation and formality.
 
-## If Asked About Limitations
+##  Limitations
 
 1. The dataset is relatively small.
 2. Some rewrites are softened rather than literally preserving profanity.
 3. CPU-only training required a lighter model and lighter training settings.
 
-## If Asked What Could Be Improved
+## What Could Be Improved
 
 1. train on the full dataset for longer,
 2. use stronger hardware,
