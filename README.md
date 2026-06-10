@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project contains an original Lithuanian informal-to-formal text rewriting dataset and a CPU-friendly LoRA fine-tuning notebook.
+This project contains an original Lithuanian informal-to-formal text rewriting dataset and fine-tuning workflows for experimenting with different language models.
 
 The task is:
 
@@ -13,8 +13,9 @@ This fits the assignment because Lithuanian is a lower-resource language and the
 
 ## Main Files
 
-- [lt_formal_dataset_303.json]
+- [lt_formal_dataset_464.json]
 - [main_workflow_cpu.ipynb]
+- [main_gemma3.ipynb]
 - [ASSESSMENT_NOTES.md]
 - [requirements.txt]
 
@@ -22,9 +23,9 @@ This fits the assignment because Lithuanian is a lower-resource language and the
 
 ### Size
 
-- Total examples: 303
-- Train examples: 242
-- Test examples: 61
+- Total examples: 464
+- Train examples: 358
+- Test examples: 106
 
 ### Structure
 
@@ -39,8 +40,8 @@ Each row contains:
 
 The dataset was built from two manually prepared sources:
 
-1. 203 Lithuanian Facebook comment pairs.
-2. 100 Lithuanian Reddit comment pairs.
+1. Lithuanian Facebook comment pairs.
+2. Lithuanian Reddit comment pairs.
 
 The final dataset is original in the sense that the input-output rewriting pairs were manually assembled and rewritten for this coursework project rather than copied from an existing benchmark.
 
@@ -56,16 +57,34 @@ When creating `formal_text`, the main rules were:
 
 ## Fine-Tuning Setup
 
-The final notebook version is designed for CPU-friendly experimentation:
+The project includes experiments with two model configurations.
+
+### 1. mT5-Small + LoRA (`main_workflow_cpu.ipynb`)
 
 - base model: `google/mt5-small`
 - fine-tuning method: `LoRA`
 - task type: sequence-to-sequence rewriting
 - notebook mode: lightweight defaults for weak hardware
 
-The initial setup attempted to use large-models, which had trouble running because of high computational expenses, so we switched to smaller scale models.
+This workflow was designed for CPU-friendly experimentation and serves as the primary training pipeline.
+
+### 2. Gemma 3 1B (`main_gemma3.ipynb`)
+
+Additional experiments were conducted using the `Gemma 3-1B` model to evaluate the performance of a larger language model on the informal-to-formal rewriting task.
+
+Evaluation was performed on the held-out test set containing **106 examples**. The following metrics were obtained:
+
+- BLEU: **3.716**
+- ROUGE-L: **0.22**
+- Perplexity: **46.8**
+
+These experiments provide a comparison against the smaller mT5-based setup while remaining feasible on limited hardware.
+
+The initial setup attempted to use larger models, which had difficulty running because of higher computational requirements, so the final project focuses on configurations that remain accessible on modest hardware.
 
 ## How To Run
+
+### CPU-Friendly LoRA Workflow
 
 Open:
 
@@ -73,7 +92,7 @@ Open:
 
 Run the notebook from top to bottom.
 
-The notebook already contains:
+The notebook contains:
 
 1. dependency installation,
 2. dataset inspection,
@@ -82,24 +101,34 @@ The notebook already contains:
 5. evaluation,
 6. single-example demo inference.
 
+### Gemma 3 Workflow
+
+Open:
+
+- [main_gemma3.ipynb]
+
+Run the notebook from top to bottom to reproduce the Gemma 3 experiments and evaluation metrics.
+
 ## Outputs
 
-The notebook saves artifacts in:
+The notebooks save artifacts in:
 
 - [outputs]
 
-Important output files:
+Important output files include:
 
-- saved LoRA adapter model
-- test predictions
-- evaluation report
+- saved model/adapters,
+- test predictions,
+- evaluation reports,
+- generated metrics.
 
 ## Notes
 
-This project was simplified toward the end to focus on a single notebook workflow. Earlier heavier model experiments are no longer required for the final setup.
+This project was simplified toward the end to focus on reproducible notebook-based workflows. Earlier heavier model experiments are no longer required for the final setup.
 
-If you use a stronger setup you can increase:
+If you use a stronger hardware setup, you can increase:
 
 - epochs,
 - number of training samples,
-- or model size.
+- model size,
+- or hyperparameter search complexity.
