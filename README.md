@@ -82,6 +82,32 @@ These experiments provide a comparison against the smaller mT5-based setup while
 
 The initial setup attempted to use larger models, which had difficulty running because of higher computational requirements, so the final project focuses on configurations that remain accessible on modest hardware.
 
+## Training Dynamics and Model Comparison
+
+### Gemma 3 1B
+
+The training and validation loss curves for the Gemma 3-1B model show rapid learning during the first few epochs. Training loss decreases steadily throughout training, while validation loss reaches its lowest value around **epoch 5**.
+
+After epoch 5, validation loss begins to increase even though training loss continues to decrease. This suggests that the model starts to overfit the training data beyond this point. Consequently, the checkpoint from approximately epoch 5 provides the best generalization performance on the validation set.
+
+This behavior indicates that Gemma 3-1B is able to learn the rewriting task relatively quickly and extract useful patterns from the dataset within a small number of epochs.
+
+### mT5-Small + LoRA
+
+The mT5-Small model exhibits a different training pattern. Both training and validation loss decrease gradually over a much larger number of epochs, showing a slower but more stable convergence process.
+
+Unlike Gemma 3-1B, the validation loss does not show a strong increase after the early stages of training. Instead, it continues to improve incrementally as training progresses, suggesting a lower tendency toward early overfitting.
+
+### Overall Comparison
+
+The two models demonstrate different learning characteristics:
+
+- **Gemma 3-1B** learns quickly and reaches its best validation performance after only a few epochs.
+- **mT5-Small + LoRA** converges more slowly and steadily over time.
+- The Gemma model achieves stronger overall performance on the Lithuanian informal-to-formal rewriting task, as reflected by the evaluation metrics obtained on the held-out test set.
+
+These observations suggest that the larger Gemma 3-1B model is better able to capture the linguistic transformations required for the task, although careful checkpoint selection or early stopping is important to avoid overfitting.
+
 ## How To Run
 
 ### CPU-Friendly LoRA Workflow
