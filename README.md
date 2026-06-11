@@ -68,7 +68,7 @@ The project includes experiments with two model configurations.
 
 This workflow was designed for CPU-friendly experimentation and serves as the primary training pipeline.
 
-### 2. Gemma 3 1B (`main_gemma3.ipynb`)
+### 2. Gemma 3-1B + LoRA (`main_gemma3.ipynb`)
 
 Additional experiments were conducted using the `Gemma 3-1B` model to evaluate the performance of a larger language model on the informal-to-formal rewriting task.
 
@@ -84,7 +84,7 @@ The initial setup attempted to use larger models, which had difficulty running b
 
 ## Training Dynamics and Model Comparison
 
-### Gemma 3 1B
+### Gemma 3-1B + LoRA
 
 The training and validation loss curves for the Gemma 3-1B model show rapid learning during the first few epochs. Training loss decreases steadily throughout training, while validation loss reaches its lowest value around **epoch 5**.
 
