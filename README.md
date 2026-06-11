@@ -82,6 +82,50 @@ These experiments provide a comparison against the smaller mT5-based setup while
 
 The initial setup attempted to use larger models, which had difficulty running because of higher computational requirements, so the final project focuses on configurations that remain accessible on modest hardware.
 
+## Configurable Training Parameters
+
+The following parameters can be modified to adjust model training, LoRA adaptation, data processing, and text generation behavior.
+
+| **Parameter** | **Description** |
+|---------------|-----------------|
+| `BASE_MODEL` | Base language model used for fine-tuning (e.g., Qwen2.5-1.5B-Instruct). |
+| `NUM_EPOCHS` | Maximum number of training epochs. |
+| `PER_DEVICE_TRAIN_BATCH_SIZE` | Number of training samples processed per device in a single step. |
+| `GRADIENT_ACCUMULATION_STEPS` | Number of steps to accumulate gradients before updating model weights. |
+| `MAX_INPUT_LENGTH` | Maximum token length for input texts. |
+| `MAX_TARGET_LENGTH` | Maximum token length for target (formalized) texts. |
+| `USE_QUICK_CPU_MODE` | Enables a reduced-size training configuration for faster CPU testing. |
+| `MAX_TRAIN_SAMPLES` | Limits the number of training examples used. |
+| `MAX_TEST_SAMPLES` | Limits the number of test examples used. |
+| `LEARNING_RATE` | Learning rate used by the optimizer. |
+| `WEIGHT_DECAY` | L2 regularization factor applied during training. |
+| `LABEL_SMOOTHING` | Label smoothing factor used during loss computation. |
+| `EARLY_STOPPING_PATIENCE` | Number of evaluation steps without improvement before stopping training. |
+| `EARLY_STOPPING_THRESHOLD` | Minimum improvement required to reset early stopping. |
+| `LORA_R` | Rank of the LoRA adaptation matrices. |
+| `LORA_ALPHA` | Scaling factor applied to LoRA updates. |
+| `LORA_DROPOUT` | Dropout rate applied within LoRA layers. |
+| `LORA_TARGET_MODULES` | Model layers that receive LoRA adapters. |
+| `AUGMENT_PROB` | Probability of applying data augmentation operations. |
+| `AUGMENT_MAX_OPS` | Maximum number of augmentation operations per example. |
+| `AUGMENT_SEED` | Random seed used for augmentation reproducibility. |
+| `USE_GPU` | Automatically enables GPU training if CUDA is available. |
+| `USE_BF16` | Enables bfloat16 precision when supported by hardware. |
+| `USE_FP16` | Enables float16 mixed-precision training. |
+| `USE_GRADIENT_CHECKPOINTING` | Reduces memory usage by recomputing activations during backpropagation. |
+| `USE_TF32` | Enables TensorFloat-32 acceleration on compatible NVIDIA GPUs. |
+| `GEN_DO_SAMPLE` | Enables probabilistic text generation instead of deterministic decoding. |
+| `GEN_NUM_BEAMS` | Number of beams used during beam-search decoding. |
+| `GEN_TEMPERATURE` | Controls randomness of generated text. Lower values produce more deterministic outputs. |
+| `GEN_TOP_P` | Nucleus sampling threshold. |
+| `GEN_TOP_K` | Restricts token selection to the top-k most probable candidates. |
+| `GEN_NO_REPEAT_NGRAM_SIZE` | Prevents repetition of n-grams of the specified size. |
+| `GEN_EARLY_STOPPING` | Stops beam search once all beams have reached an end condition. |
+| `GEN_LENGTH_PENALTY` | Controls preference for shorter or longer generated sequences. |
+| `GEN_REPETITION_PENALTY` | Penalizes repeated token generation. |
+| `GEN_MIN_NEW_TOKENS` | Minimum number of tokens generated during inference. |
+| `RUN_POST_TRAIN_EVAL` | Runs evaluation after training completes. |
+
 ## Training Dynamics and Model Comparison
 
 ### Gemma 3-1B + LoRA
